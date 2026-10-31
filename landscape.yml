@@ -22031,7 +22031,7 @@ landscape:
             additional_repos: []
           - item:
             name: Software Supply Chain Security Project
-            homepage_url: https://uptane.github.io/
+            homepage_url: https://sscss.io/
             logo: software_supply_chain_security_project.svg
             description: Uptane is an open and secure software update system design which protects software delivered over-the-air to the computerized units of automobiles.
             second_path:
@@ -45232,6 +45232,7 @@ landscape:
             description: Ultimum Technologies provides expert support and consulting services for open source cloud computing technologies, including OpenStack, Ceph, Kubernetes, and Rancher, helping clients optimize their IT infrastructure and operations.
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/ultimum-technologies
             extra:
               linkedin_url: https://www.linkedin.com/company/ultimum-technologies
           - item:
@@ -45404,6 +45405,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
+            crunchbase: https://www.crunchbase.com/organization/ust
           - item:
             name: USU GMBH (member)
             homepage_url: https://usu.com/
@@ -53583,6 +53585,7 @@ landscape:
             description: Télécom Paris is the leading French engineering school specializing in digital technology, fostering innovation and entrepreneurship. It is a founding member of IP Paris and IMT France, offering a range of notable student projects, research initiatives...
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/t%C3%A9l%C3%A9com-paris
           - item:
             name: Tennessee Technological University (member)
             homepage_url: https://tntech.edu/
@@ -53837,6 +53840,7 @@ landscape:
             description: JHU Applied Physics Laboratory is a nonprofit university-affiliated research center that specializes in engineering, research, and development to address national security challenges through systems engineering, technology research, and analysis, while...
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/johns-hopkins-applied-physics-lab
           - item:
             name: The Khronos Group Inc (member)
             homepage_url: https://khronos.org/
@@ -54698,6 +54702,7 @@ landscape:
             second_path:
               - Project Membership / OpenHPC Project
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/university-of-richmond
           - item:
             name: University of Rome Tor Vergata (member)
             homepage_url: https://uniroma2.it/
@@ -55303,6 +55308,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Edge
+            crunchbase: https://www.crunchbase.com/organization/xi-an-university-of-architecture-and-technology
             extra:
               linkedin_url: https://www.linkedin.com/company/xi%27an-university-of-architecture-and-technology
           - item:
