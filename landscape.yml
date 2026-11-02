@@ -26527,6 +26527,13 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
           - item:
+            name: 1Claw (member)
+            homepage_url: https://1claw.co/
+            logo: 1claw.svg
+            description: 1Claw provides hardware security module (HSM) backed secret management solutions for AI agents and humans, utilizing multi-party computation (MPC) key splitting across major cloud platforms, and offering features such as policy-based access, audit logg...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: 1id.com (member)
             homepage_url: https://1id.com/
             logo: 1id.svg
@@ -26574,7 +26581,6 @@ landscape:
             logo: 24x7_geeks_solutions_pvt_ltd.svg
             description: Geeks Solutions is a Managed IT Services & Cloud Solutions company established in 2007 to provide solutions on multi cloud platforms.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/geeks-solutions
             extra:
@@ -26695,6 +26701,17 @@ landscape:
               - Project Membership / Linux Foundation Europe
             extra:
               linkedin_url: https://www.linkedin.com/company/ac6
+          - item:
+            name: ACA Group (member)
+            homepage_url: https://acagroup.be/
+            logo: aca_group.svg
+            description: ACA Group empowers global success through innovation, technology, and knowledge, focusing on sustainable development and customer satisfaction in IT services and consulting.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/aca-group
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-aca-group
           - item:
             name: Accenture Global Solutions Limited (member)
             homepage_url: https://accenture.com/
@@ -27256,6 +27273,12 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cloudmate-1d80
+          - item:
+            name: Aible Inc (member)
+            homepage_url: https://aible.com/
+            logo: aible_inc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: AIDEFEND Labs (member)
             homepage_url: https://aidefendlabs.com/
@@ -27850,6 +27873,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/analog-devices
           - item:
+            name: Anchorage Digital (member)
+            homepage_url: https://anchorage.com/
+            logo: anchorage_digital.svg
+            description: Anchorage Digital is a regulated crypto platform that provides institutions with integrated financial services and infrastructure solutions. With the only federally chartered crypto bank in the US, as well as Anchorage Digital Singapore, which offers e...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Andes Digital (member)
             homepage_url: https://andesdigital.com/
             logo: andes_digital.svg
@@ -27903,6 +27933,12 @@ landscape:
             twitter: https://twitter.com/Anritsu
             extra:
               linkedin_url: https://www.linkedin.com/company/anritsu
+          - item:
+            name: ANSpect Technologies Inc (member)
+            homepage_url: https://anspect-technologies.com/
+            logo: anspect_technologies_inc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Ansys (member)
             homepage_url: https://ansys.com/
@@ -27989,6 +28025,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/anynines
           - item:
+            name: Anyscale Inc (member)
+            homepage_url: https://anyscale.io/
+            logo: anyscale_inc.svg
+            description: Anyscale provides a unified compute platform for scalable AI and Python applications using Ray, enabling developers to effortlessly scale applications from laptops to data centers.
+            second_path:
+              - Project Membership / The Linux Foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/joinanyscale
+          - item:
             name: AOE (member)
             homepage_url: https://aoe.com/
             logo: aoe.svg
@@ -28055,6 +28100,28 @@ landscape:
             twitter: https://twitter.com/apollographql
             extra:
               linkedin_url: https://www.linkedin.com/company/apollo-graphql
+          - item:
+            name: Applied Blockchain (member)
+            homepage_url: https://appliedblockchain.com/
+            logo: applied_blockchain.svg
+            description: We Develop Applications with Enhanced Trust and Privacy
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/applied-blockchain
+            twitter: https://twitter.com/AppBlockchain
+            extra:
+              linkedin_url: https://www.linkedin.com/company/applied-blockchain
+          - item:
+            name: AppViewX (member)
+            homepage_url: https://appviewx.com/
+            logo: appviewx.svg
+            description: AppViewX is a Next Gen Machine Identity Management platform offering CERT+ and ADC+ products for streamlined certificate and key lifecycle management, application delivery control, and network automation.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/appviewx
+            extra:
+              linkedin_url: https://www.linkedin.com/company/appviewx
           - item:
             name: Aptum (member)
             homepage_url: https://aptum.com/
@@ -28193,6 +28260,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/arcontech-group
             extra:
               linkedin_url: https://www.linkedin.com/company/arcontech
+          - item:
+            name: ARCTIQ (member)
+            homepage_url: https://arctiq.com/
+            logo: arctiq.svg
+            description: As a systems integrator and managed service provider, Arctiq provides Hybrid Cloud Infrastructure, Networking, Cybersecurity, Data and AI, Autonomous Operations, and ESM to deliver measurable outcomes.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Arduino (member)
             homepage_url: https://arduino.cc/
@@ -28828,6 +28902,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/banco-de-credito-bcp
           - item:
+            name: Banco Santander S.A. (member)
+            homepage_url: https://santander.com.br/
+            logo: banco_santander_s_a.svg
+            description: At Santander Brasil, it's our mission to help people prosper. We offer a wide range of financial services including opening current accounts, applying for credit cards, requesting loans, and more. Our commitment to progress extends to supporting social...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Band (member)
             homepage_url: https://band.ai/
             logo: band.svg
@@ -28904,6 +28985,14 @@ landscape:
             twitter: https://twitter.com/BayLibre
             extra:
               linkedin_url: https://www.linkedin.com/company/baylibre
+          - item:
+            name: Beautiful Majestic Dolphin (member)
+            homepage_url: https://beautifulmajesticdolphin.com/
+            logo: beautiful_majestic_dolphin.svg
+            description: Shanemorris.sucks is the official site dedicated to highlighting the shortcomings of Shane Morris. Offering a platform for expressing discontent, the company focuses on online security with Aura, providing a 14-day free trial to safeguard your digital ...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
           - item:
             name: bedigital (member)
             homepage_url: https://bedigitaluk.com/
@@ -29008,6 +29097,13 @@ landscape:
             twitter: https://twitter.com/bellsoftware
             extra:
               linkedin_url: https://www.linkedin.com/company/bell-sw
+          - item:
+            name: bem (member)
+            homepage_url: https://bem.ai/
+            logo: bem.svg
+            description: 'bem.ai: AI data transformer simplifying data integration for engineering teams across industries.'
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: BE Networks (member)
             homepage_url: https://be-net.com/
@@ -29560,6 +29656,44 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bosch
           - item:
+            name: Box, Inc. (member)
+            homepage_url: https://box.com/
+            logo: box_inc.svg
+            description: |-
+              1300 total employees, 300 Engineers.  (as per Karthik S)
+
+              Founded in 2005, Box (NYSE:BOX) is transforming the way people and organizations work so they can achieve their greatest ambitions. As the world's leading enterprise software platform for content collaboration, Box helps businesses of all sizes in every industry securely access and manage their critical information in the cloud. 
+
+              Box is headquartered in Los Altos, CA, with offices across the United States, Europe and Asia. To learn more about Box, visit www.box.com.
+
+              Specialties
+              File Sharing, Collaboration, FTP Replacement, Mobile Enterprise Security
+
+              Website
+              http://www.box.com
+
+              Industry
+              Internet
+
+              Type
+              Public Company
+
+              Headquarters
+              4440 El Camino Real Los Altos, CA 94022 United States\
+
+              Company Size
+              1001-5000 employees   (1200 employees as of 12/2015)
+
+              Founded
+              2005
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/box
+            twitter: https://twitter.com/Box
+            extra:
+              linkedin_url: https://www.linkedin.com/company/box
+          - item:
             name: BrainGu, LLC (member)
             homepage_url: https://braingu.com/
             logo: braingu_llc.svg
@@ -29669,7 +29803,6 @@ landscape:
             logo: buf_technologies_inc.svg
             description: Create, maintain and consume Protobuf Buffer APIs with our modern Protocol Buffers ecosystem
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/buf-technologies
             twitter: https://twitter.com/bufbuild
@@ -29959,6 +30092,14 @@ landscape:
             description: 'Capablanca: Modern, Cloud Native Infrastructure for Scaling Businesses. Specializing in data architectures, delivery automation, and security foundations.'
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: Capacitas (member)
+            homepage_url: https://capacitas.co.uk/
+            logo: capacitas.svg
+            description: Capacitas specializes in capacity and performance management for business-critical IT systems, helping clients achieve significant reductions in costs and risks while optimizing performance and scalability in their cloud strategies.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: Capgemini (member)
             homepage_url: https://capgemini.com/
@@ -30612,18 +30753,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: ClickHouse, Inc. (member)
-            homepage_url: https://clickhouse.com/
-            logo: clickhouse_inc.svg
-            description: ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/clickhouse
-            twitter: https://twitter.com/ClickHouseDB
-            extra:
-              linkedin_url: https://www.linkedin.com/company/clickhouseinc
-          - item:
             name: Clockwork.io (member)
             homepage_url: https://clockwork.io/
             logo: clockwork.svg
@@ -31125,6 +31254,18 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Cognizant Technology Solutions U.S. Corporation (member)
+            homepage_url: https://cognizant.com/
+            logo: cognizant_technology_solutions_u_s.svg
+            description: Cognizant is an American multinational corporation that provides IT services, including digital, technology, consulting, and operations services.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+            crunchbase: https://www.crunchbase.com/organization/cognizant-technology-solutions
+            twitter: https://twitter.com/Cognizant
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cognizant
+          - item:
             name: Cohere Technologies (member)
             homepage_url: https://cohere-technologies.com/
             logo: cohere_technologies.svg
@@ -31578,6 +31719,14 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Courzad (member)
+            homepage_url: https://courzad.com/
+            logo: courzad.svg
+            description: Courzad offers comprehensive 5G network solutions, telecom services, and IoT consulting globally, driving innovation and connectivity for businesses worldwide.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Camara Fund
+          - item:
             name: CPMC (member)
             homepage_url: https://cpmccorp.com/
             logo: cpmc.svg
@@ -31702,6 +31851,13 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cue-labs-c550
+          - item:
+            name: Cumucore (member)
+            homepage_url: https://cumucore.com/
+            logo: cumucore.svg
+            description: Cumucore provides comprehensive telecommunications solutions, including container-based 4G/5G cores, virtualized EPC, and network slicing for IoT traffic, to help mobile operators increase revenue and overcome network challenges.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: CVS Health (member)
             homepage_url: https://cvshealth.com/
@@ -31885,6 +32041,13 @@ landscape:
             twitter: https://twitter.com/DaoCloudIO
             extra:
               linkedin_url: https://www.linkedin.com/company/daocloudio
+          - item:
+            name: Darktrace (member)
+            homepage_url: https://darktrace.com/
+            logo: darktrace.svg
+            description: Darktrace is a global leader in cyber security artificial intelligence, providing innovative solutions to protect over 8,100 organizations worldwide. Their Self Learning Enterprise Immune System technology detects and interrupts cyber attacks, includin...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Databricks Inc. (member)
             homepage_url: https://databricks.com/
@@ -32114,6 +32277,13 @@ landscape:
             homepage_url: https://deepgram.com/
             logo: deepgram.svg
             description: Deepgram is a top AI speech recognition company offering a powerful speech to text API for accurate and customizable transcription solutions.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Deep Learning Partnership (member)
+            homepage_url: https://deeplp.com/
+            logo: deep_learning_partnership.svg
+            description: Deep Learning Partnership provides AI consulting and training services for Enterprise clients, specializing in Data Science, Machine Learning, and Artificial Intelligence.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -32358,6 +32528,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/telekom
           - item:
+            name: Develocity (member)
+            homepage_url: https://develocity.ai/
+            logo: develocity.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+          - item:
             name: Development Seed (member)
             homepage_url: https://developmentseed.org/
             logo: development_seed.svg
@@ -32579,6 +32756,12 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: distributeapps.ai (member)
+            homepage_url: https://distributeapps.ai/
+            logo: distributeapps.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Dlocal (member)
             homepage_url: https://dlocal.com/
             logo: dlocal.svg
@@ -32778,6 +32961,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/duckbillgroup
           - item:
+            name: Dvloper (member)
+            homepage_url: https://dvloper.io/
+            logo: dvloper.svg
+            description: dvloper.io is a company that offers exceptional software engineering solutions, IT services, and IT consulting to help businesses stay competitive in a fast-paced world. They specialize in cross-industry innovation to elevate businesses to the next level.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dvloper-io
+          - item:
             name: Dynamia AI (member)
             homepage_url: https://dynamia.ai/
             logo: dynamia_ai.svg
@@ -32895,7 +33088,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
           - item:
             name: Edgecore Network Corporation (member)
             homepage_url: https://edge-core.com/
@@ -32933,15 +33125,6 @@ landscape:
             twitter: https://twitter.com/EdgelessSystems
             extra:
               linkedin_url: https://www.linkedin.com/company/edgeless-systems
-          - item:
-            name: Edge & Node (member)
-            homepage_url: https://edgeandnode.com/
-            logo: edge_node.svg
-            description: Edge & Node provides expert support and infrastructure solutions for enterprise-scale blockchain businesses, focusing on the development and deployment of protocols and decentralized applications within the DeFi and web3 ecosystem.
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/edge-node
           - item:
             name: Effectual Inc (member)
             homepage_url: https://effectual.com/
@@ -33138,6 +33321,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
+              - Project Membership / RISC-V International
           - item:
             name: embedd.it (member)
             homepage_url: https://embedd.it/
@@ -33318,6 +33502,13 @@ landscape:
             twitter: https://twitter.com/entigoltd
             extra:
               linkedin_url: https://www.linkedin.com/company/entigoltd
+          - item:
+            name: Entrust Corporation (member)
+            homepage_url: https://entrust.com/
+            logo: entrust_corporation.svg
+            description: Entrust provides advanced identity, payment, and data security solutions, specializing in identity-based security software and services such as public key infrastructure (PKI), fraud detection, and mobile authentication to ensure safe and trusted exper...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: EntServ UK Limited (member)
             homepage_url: https://www.dxc.com/uk/en
@@ -33681,6 +33872,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Yocto Project Fund
+              - Project Membership / Zephyr Project
             crunchbase: https://www.crunchbase.com/organization/exein
             twitter: https://twitter.com/Exein_io
             extra:
@@ -33802,7 +33994,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/fannie-mae
             twitter: https://twitter.com/FannieMae
             extra:
@@ -34034,6 +34225,46 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/fortified-data-services
           - item:
+            name: Fortinet, Inc. (member)
+            homepage_url: https://fortinet.com/
+            logo: fortinet_inc.svg
+            description: |-
+              Fortinet 
+
+              Type Public
+              Industry	Network security & Computer security
+              Founded	2000
+              Founder	CEO: Ken Xie
+              CTO: Michael Xie
+              Headquarters	Sunnyvale, California, United States
+
+              Products	FortiGate UTM, Next Generation Firewall, Firewalls, Antivirus, Intrusion-prevention system, Antispyware, Antispam, VPN, Wireless security, Application Control, Web Filtering
+
+              Revenue	Increase US$ 615.3 million (2013)
+
+              Operating income
+              Decrease US$ 72.09 million (2013)
+
+              Net income
+              Decrease US$ 44.27 million (2013)
+
+              Total assets	Increase US$ 1.16 billion (2013)
+
+              Total equity	Increase US$ 585.76 million (2013)
+
+              Number of employees
+              3,076+
+
+              Slogan	Real Time Network Protection
+
+              Website	www.fortinet.com
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/fortinet
+            twitter: https://twitter.com/Fortinet
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fortinet
+          - item:
             name: Fortuna Cysec Inc (member)
             homepage_url: https://fortunacysec.com/
             logo: fortuna_cysec_inc.svg
@@ -34082,6 +34313,13 @@ landscape:
             twitter: https://twitter.com/FOSSID_AB
             extra:
               linkedin_url: https://www.linkedin.com/company/fossid-ab
+          - item:
+            name: Foundation Devices, Inc. (member)
+            homepage_url: https://foundation.xyz/
+            logo: foundation_devices_inc.svg
+            description: Foundation offers a personal security platform that combines a user-friendly hardware wallet and a mobile wallet designed specifically for Bitcoin, providing both elegance and advanced privacy features for users at all experience levels.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Foundries.io LTD (member)
             homepage_url: https://foundries.io/
@@ -34469,6 +34707,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/gitpod
           - item:
+            name: Glemad Inc (member)
+            homepage_url: https://glemad.com/
+            logo: glemad_inc.svg
+            description: Glemad is a pioneering global provider of next-generation digital transformation services and consulting, offering a unified software foundation that enables businesses to streamline operations, enhance customer management, and improve project tracking...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Glide Identity (member)
             homepage_url: https://glideidentity.com/
             logo: glide_identity.svg
@@ -34487,6 +34732,20 @@ landscape:
               - Project Membership / Post-Quantum Cryptography Alliance
             extra:
               linkedin_url: https://www.linkedin.com/company/globaldmtech
+          - item:
+            name: Go Abacus Corporation (DBA Go.AI) (member)
+            homepage_url: https://goabacus.co/
+            logo: go_abacus_corporation_dba_go.svg
+            description: Abacus Financial Services AI provides AI-driven LLM solutions, including Abacus Enterprise Search and Abbi Assist, to transform financial services. Their secure generative AI technology is tailored for banks, credit unions, and insurance companies, ens...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+          - item:
+            name: goAI Solutions (member)
+            homepage_url: https://goai.solutions/
+            logo: goai_solutions.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Goldman Sachs & Co. LLC (member)
             homepage_url: https://goldmansachs.com/
@@ -35038,7 +35297,6 @@ landscape:
             description: HERE is focused on the concept of location and the potential it has to improve the way business is done. In 1985 they started with a goal to digitize mapping and in-car navigation systems. Today they are creating living 3D maps that grow with levels of information and insights including tracking, traffic, and location services. HERE is used by the automotive, logistics, telecommunications, media, retail, and insurance industries. HERE is headquartered in Amsterdam, The Netherlands with offices around the world.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/here-inc
             twitter: https://twitter.com/here
             extra:
@@ -35104,6 +35362,17 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/highway9-networks
+          - item:
+            name: Honeywell Technologies (member)
+            homepage_url: https://honeywell.com/
+            logo: honeywell_technologies.svg
+            description: Honeywell International, Inc. is an American conglomerate company that produces an assortment of commercial and consumer products, aerospace systems, and engineering services for a variety of customers, such as private consumers, major corporations, and governments. Headquartered in Morristown, NJ, the company manufactures control technologies, power generation systems, specialty chemicals, aerospace products, electronic materials, fibers, and plastics. They were established in 1978 and are headquartered in Bracknell, England.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/honeywell
+            twitter: https://twitter.com/honeywell
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ems-technologies
           - item:
             name: Hon Hai Precision Industry Co., Ltd. (member)
             homepage_url: https://foxconn.com/
@@ -35943,7 +36212,6 @@ landscape:
             description: Intellias is a global technology partner that empowers leading brands worldwide with digital innovation and expertise in IT services, consulting, and product development.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Overture Maps Foundation Fund
               - Project Membership / Unified Acceleration Foundation Fund
             extra:
               linkedin_url: https://www.linkedin.com/company/intellias
@@ -36249,6 +36517,13 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
             crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
+          - item:
+            name: Jeen AI Technologies US, LLC (member)
+            homepage_url: https://jeen.ai/
+            logo: jeen_ai_technologies_us_llc.svg
+            description: Jeen Ai specializes in providing advanced AI solutions, including AI agents and deep voice analytics, to enhance organizational performance and drive innovation across various sectors.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: JetBrains s.r.o. (member)
             homepage_url: https://jetbrains.com/
@@ -36845,17 +37120,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/krickcom
           - item:
-            name: kt cloud Co., Ltd (member)
-            homepage_url: https://cloud.kt.com/
-            logo: kt_cloud_co.svg
-            description: KT Corporation, formerly Korea Telecom, is a South Korean telecommunications company.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/kt-cloud
-            extra:
-              linkedin_url: https://www.linkedin.com/company/kt
-          - item:
             name: KubeDB LLC (member)
             homepage_url: https://kubedb.llc/
             logo: kubedb_llc.svg
@@ -36958,7 +37222,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/ibm
             twitter: https://twitter.com/Kyndryl
             extra:
@@ -37021,6 +37284,12 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
+          - item:
+            name: Lasso Security (member)
+            homepage_url: https://lasso.security/
+            logo: lasso_security.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Last9 Inc (member)
             homepage_url: https://last9.io/
@@ -38083,7 +38352,6 @@ landscape:
               Specialties Enterprise IT, Cyber Security, Digital, Government Contractor, Cloud, Digital, UI/UX, Managed Services, Modernization, Data Visualization, and Mobile Development
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/metrostar-systems
             twitter: https://twitter.com/MetroStarSystem
             extra:
@@ -38616,6 +38884,14 @@ landscape:
             twitter: https://twitter.com/mvista
             extra:
               linkedin_url: https://www.linkedin.com/company/montavista-software
+          - item:
+            name: Monty UK Global Ltd (member)
+            homepage_url: https://montyholding.com/
+            logo: monty_uk_global_ltd.svg
+            description: Monty Holding, established in 1998, is a telecom powerhouse with global connections and a focus on cutting-edge solutions for partners in diverse sectors.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Camara Fund
           - item:
             name: Moody's (member)
             homepage_url: https://moodys.com/
@@ -39388,6 +39664,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nordic-semiconductor-asa
           - item:
+            name: NorForge Inc (member)
+            homepage_url: https://norforge.com/
+            logo: norforge_inc.svg
+            description: NorForge specializes in collaborating with clients to thoroughly understand and reconstruct their products, leveraging its expertise as the former technical arm of a Silicon Valley private equity firm to ensure robust value creation and sustainable out...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: North Cloud (member)
             homepage_url: https://north.cloud/
             logo: north_cloud.svg
@@ -39621,6 +39904,7 @@ landscape:
               - Project Membership / RISC-V International
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / FinOps Foundation
+              - Project Membership / Core Toolchain Infrastructure (CTI)
               - Project Membership / Linux Foundation Europe
               - Project Membership / PyTorch Foundation
               - Project Membership / SONiC Fund
@@ -39703,6 +39987,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/keyval
             extra:
               linkedin_url: https://www.linkedin.com/company/odigos-global-ventures-pvt-ltd
+          - item:
+            name: Offgrid Security (member)
+            homepage_url: https://offgridsec.com/
+            logo: offgrid_security.svg
+            description: Offgrid develops advanced software solutions designed to provide comprehensive protection against social engineering attacks, ensuring digital privacy and security for individuals and organizations.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Okahu Inc (member)
             homepage_url: https://okahu.ai/
@@ -39791,6 +40082,13 @@ landscape:
             twitter: https://twitter.com/opaquesys
             extra:
               linkedin_url: https://www.linkedin.com/company/opaquesystems
+          - item:
+            name: openagents (member)
+            homepage_url: https://openagents.org/
+            logo: openagents.svg
+            description: OpenAgents provides an open-source collaboration operating system designed for AI agents, enabling users to work together in shared environments while managing and orchestrating multiple AI tools seamlessly from a single application.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: OpenAI Inc (member)
             homepage_url: https://openai.com/
@@ -39897,6 +40195,7 @@ landscape:
             second_path:
               - Project Membership / Real-Time Linux (RTL)
               - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
             twitter: https://twitter.com/OSADL_eG
             extra:
               linkedin_url: https://www.linkedin.com/company/osadl
@@ -40134,6 +40433,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/otoy
           - item:
+            name: OutSystems (member)
+            homepage_url: https://outsystems.com/
+            logo: outsystems.svg
+            description: OutSystems provides the worlds leading Rapid Application Delivery (RAD) platform for the enterprise  meticulously designed, engineered and crafted to move at the speed of todays digital business. OutSystems Platform is the fastest and most comprehensive way to create, deploy, change, and manage custom mobile and web applications  delivered seamlessly across all devices. Available as a cloud or on-premises solution with deep integration to all existing systems and an open architecture, OutSystems manages the complete application lifecycle of large portfolios at over 600 enterprise organizations in 33 countries across 22 industries.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/outsystems
+            twitter: https://twitter.com/OutSystems
+            extra:
+              linkedin_url: https://www.linkedin.com/company/outsystems
+          - item:
             name: OVH SAS (member)
             homepage_url: https://ovhcloud.com/
             logo: ovh_sas.svg
@@ -40226,6 +40536,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/pantheon-systems-inc
           - item:
+            name: Pantherun (member)
+            homepage_url: https://pantherun.com/
+            logo: pantherun.svg
+            description: Pantherun designs and manufactures high-precision electronic products for industrial communication and controls, catering to global markets with a revolutionary approach to product development.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / P4 Fund
+          - item:
             name: Paper Compute Co (member)
             homepage_url: https://papercompute.com/
             logo: paper_compute_co.svg
@@ -40275,6 +40593,13 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/patapsco-ai
           - item:
+            name: Pathlock (member)
+            homepage_url: https://pathlock.com/
+            logo: pathlock.svg
+            description: Pathlock revolutionizes application security with automation, compliance, and risk reduction for sensitive data.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: PayPal Holdings, Inc. (member)
             homepage_url: https://paypal.com/
             logo: paypal_holdings_inc.svg
@@ -40296,6 +40621,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/pelotech
             extra:
               linkedin_url: https://www.linkedin.com/company/pelotech
+          - item:
+            name: Peraton Labs (member)
+            homepage_url: https://peratonlabs.com/
+            logo: peraton_labs.svg
+            description: Peraton Labs is an applied research organization that focuses on delivering innovative solutions in cybersecurity, electronic warfare, mobility, analytics, and networking to both government and commercial clients globally, aiming to address complex cha...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Percepio AB (member)
             homepage_url: https://percepio.com/
@@ -40354,14 +40686,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: Perr&Knight (member)
-            homepage_url: https://perrknight.com/
-            logo: perr_knight.svg
-            description: Perr&Knight delivers integrated actuarial, compliance, and technology services to insurance companies globally, driving insurance forward with cost-effective solutions and competitive advantages.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
-          - item:
             name: Persona Identities, Inc. (member)
             homepage_url: https://withpersona.com/
             logo: persona_identities_inc.svg
@@ -40383,7 +40707,6 @@ landscape:
             logo: pgedge.svg
             description: pgEdge offers a fully distributed PostgreSQL solution optimized for the network edge, enabling low latency and ultra high availability by placing copies of databases close to users and facilitating seamless disaster recovery and maintenance.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/pgedge
           - item:
@@ -40409,6 +40732,13 @@ landscape:
             twitter: https://twitter.com/PhnxSoftware
             extra:
               linkedin_url: https://www.linkedin.com/company/phoenix-software-international
+          - item:
+            name: PhotoRoom SAS (member)
+            homepage_url: https://photoroom.com/
+            logo: photoroom_sas.svg
+            description: Photoroom is a leading AI photo editing company that enables users to create professional product and portrait pictures using their phone. With over 100 million downloads, Photoroom's AI tools simplify photo editing, remove backgrounds, and generate st...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: PHYSICL (member)
             homepage_url: https://physicl.ai/
@@ -40588,7 +40918,6 @@ landscape:
             logo: platform_engineering_masters_gmbh.svg
             description: Platform Engineering is the global home for platform engineers, offering a community to learn from DevOps and cloud native experts, connect with practitioners, access defining articles, and explore open positions in platform teams.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/platform-engineering
             extra:
@@ -40846,6 +41175,13 @@ landscape:
             twitter: https://twitter.com/ProdigyGame
             extra:
               linkedin_url: https://www.linkedin.com/company/prodigyedu
+          - item:
+            name: Produktiv (member)
+            homepage_url: https://produktiv.ai/
+            logo: produktiv.svg
+            description: Produktiv specializes in providing a model-agnostic and scalable AI governance platform that empowers enterprises to manage unstructured data effectively while ensuring compliance, transparency, and accelerated adoption of AI technologies.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: PRODYNA SE (member)
             homepage_url: https://prodyna.com/
@@ -41424,6 +41760,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/rbc-capital-markets
           - item:
+            name: reagent (member)
+            homepage_url: https://reagent-systems.com/
+            logo: reagent.svg
+            description: reagent provides a next-generation AI agent framework that allows developers to create intelligent AI agents with a focus on minimalist and modular design, ensuring powerful functionality without unnecessary complexity.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: RealCloud (member)
             homepage_url: https://realcloud.com.br/
             logo: realcloud.svg
@@ -41641,6 +41984,13 @@ landscape:
             twitter: https://twitter.com/replicatedhq
             extra:
               linkedin_url: https://www.linkedin.com/company/replicated
+          - item:
+            name: Resilinc (member)
+            homepage_url: https://resilinc.ai/
+            logo: resilinc.svg
+            description: Resilinc is a top AI-driven supply chain data monitoring platform that offers end-to-end risk management solutions, providing industry leaders with the tools to mitigate risks and build resilience in their supply chains.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Resolve Technology (member)
             homepage_url: https://reslv.io/
@@ -41943,6 +42293,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/salesforce
           - item:
+            name: Sambanova Systems (member)
+            homepage_url: https://sambanovasystems.com/
+            logo: sambanova_systems.svg
+            description: SambaNova Systems is an American semiconductor company providing a full stack generative AI platform optimized for enterprise and government, delivering high accuracy and transparency in AI models.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sambanova-systems
+          - item:
             name: SandboxAQ (member)
             homepage_url: https://sandboxaq.com/
             logo: sandboxaq.svg
@@ -41998,13 +42358,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sap
           - item:
-            name: SASHA (member)
-            homepage_url: https://sasha.eu/
-            logo: sasha.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
-          - item:
             name: SAS Institute Inc. (member)
             homepage_url: https://sas.com/
             logo: sas_institute_inc.svg
@@ -42031,6 +42384,13 @@ landscape:
             name: Satoshi Holdings Co., Ltd. (member)
             homepage_url: https://bitpal.io/
             logo: satoshi_holdings_co_ltd.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Saviynt (member)
+            homepage_url: https://saviynt.com/
+            logo: saviynt.svg
+            description: Saviynt is the leading cloud identity governance platform providing access governance and intelligence solutions for critical applications on Cloud and Enterprise, ensuring operational efficiency, risk reduction, and simplified identity management.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -42265,6 +42625,13 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/seal-software
           - item:
+            name: SecEdge Inc (member)
+            homepage_url: https://secedge.com/
+            logo: secedge_inc.svg
+            description: SecEdge specializes in providing advanced digital security solutions for IoT and Edge devices through a software as a service platform, addressing the critical need for secure connectivity in an increasingly interconnected world.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Secondfront (member)
             homepage_url: https://secondfront.com/
             logo: secondfront.svg
@@ -42433,6 +42800,13 @@ landscape:
               - Project Membership / FinOps Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/serviceware
+          - item:
+            name: SevenLayerLabs (member)
+            homepage_url: https://sevenlayer.io/
+            logo: sevenlayerlabs.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
           - item:
             name: Several Clouds Ltd (member)
             homepage_url: https://severalclouds.com/
@@ -42766,6 +43140,12 @@ landscape:
             twitter: https://twitter.com/SKtelecom
             extra:
               linkedin_url: https://www.linkedin.com/company/sk-telecom-americas
+          - item:
+            name: skyhigh security (member)
+            homepage_url: https://skyhighsecurty.com/
+            logo: skyhigh_security.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: SKYLARK WIRELESS, LLC (member)
             homepage_url: https://skylarkwireless.com/
@@ -43737,15 +44117,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
           - item:
-            name: Succinct (member)
-            homepage_url: https://succinct.xyz/
-            logo: succinct.svg
-            description: Succinct builds zero-knowledge infrastructure that proves what’s real—bringing verifiable computation and content authenticity to AI, media, and digital systems.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
-            crunchbase: https://www.crunchbase.com/organization/succinct
-          - item:
             name: Sudo Information Technology Co. Ltd. (member)
             homepage_url: https://sudoinfotech.com/
             logo: sudo_information_technology_co_ltd.svg
@@ -44163,6 +44534,20 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/tcc-consulting-limited
           - item:
+            name: TCG (member)
+            homepage_url: https://tcg.com/
+            logo: tcg.svg
+            description: TCG is a Certified B Corporation that provides IT and management advisory services to federal agencies. With a focus on efficiency, transparency, and ethics, TCG aims to save US taxpayers $1 billion by 2016. They offer unique solutions and custom-built...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: TD SYNNEX Corporation (member)
+            homepage_url: https://tdsynnex.com/
+            logo: td_synnex_corporation.svg
+            description: TD SYNNEX is a leading global distributor and solutions aggregator in the IT ecosystem, providing comprehensive technology distribution and solution aggregation capabilities to enhance value for its partners and end users.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: TDT AG (member)
             homepage_url: https://tdt.de/
             logo: tdt_ag.svg
@@ -44364,6 +44749,17 @@ landscape:
             twitter: https://twitter.com/temporalio
             extra:
               linkedin_url: https://www.linkedin.com/company/temporal-technologies
+          - item:
+            name: Tenable, Inc. (member)
+            homepage_url: https://tenable.com/
+            logo: tenable_inc.svg
+            description: Tenable Network Security, Inc. provides continuous network monitoring and vulnerability management services to Fortune Global 500 companies across industries, as well as the U.S. Department of Defense and various governments worldwide. The company offers SecurityCenter Continuous View that allows for comprehensive and integrated view of network health; Nessus, a vulnerability assessment and management solution for detecting and assessing network data; and Passive Vulnerability Scanner that eliminates network blind spots by monitoring network traffic in real-time to discover active assets, identify cloud applications, and detect anomalous activity. It serves education, finance, healthcare, PCI, and energy sectors. The company was founded in 2002 and is based in Columbia, Maryland.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/tenable-network-security
+            twitter: https://twitter.com/TenableSecurity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tenable-network-security
           - item:
             name: Tencent Technology (Shenzhen) Co., Ltd. (member)
             homepage_url: https://tencent.com/
@@ -44645,6 +45041,14 @@ landscape:
             description: Theseus Guard offers a stateful AI governance platform designed to help enterprises monitor, enforce, and audit AI behavior, ensuring compliance with the EU AI Act.
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: TheTop (member)
+            homepage_url: https://thetop.com/
+            logo: thetop.svg
+            description: TheTop provides an intelligent layer for enterprise AI that enhances operational clarity and reduces costs by optimizing memory, routing, and caching, thereby improving performance and efficiency across the entire AI stack.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: The Toronto-Dominion Bank (member)
             homepage_url: https://td.com/
@@ -45197,6 +45601,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ubs
           - item:
+            name: UElement (member)
+            homepage_url: https://uelement.co/
+            logo: uelement.svg
+            description: UElement specializes in engineering quantum-safe security solutions and resilient autonomous systems to create a seamless digital infrastructure for enterprises, focusing on post-quantum cryptography, quantum key distribution, and crypto agility for ba...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
+          - item:
             name: Ufi Space (member)
             homepage_url: https://ufispace.com/
             logo: ufi_space.svg
@@ -45597,6 +46009,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/vdura
           - item:
+            name: VECENTEK (member)
+            homepage_url: https://vecentek.com/
+            logo: vecentek.svg
+            description: Vecentek is a top company in intelligent connected vehicles, honored for their 2023 standardization work. They focus on future trends and challenges in the smart car industry.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Velocity (member)
             homepage_url: https://velocity.tech/
             logo: velocity.svg
@@ -45804,6 +46223,16 @@ landscape:
             twitter: https://twitter.com/virtasant
             extra:
               linkedin_url: https://www.linkedin.com/company/virtasant
+          - item:
+            name: VirtusLab (member)
+            homepage_url: https://virtuslab.com/
+            logo: virtuslab.svg
+            description: We engineer reliable and scalable software solutions of the highest quality – supporting our customers’ growth. Fintech, Tooling, Streaming, Data Solutions.
+            second_path:
+              - Project Membership / The Linux Foundation
+            twitter: https://twitter.com/VirtusLab
+            extra:
+              linkedin_url: https://www.linkedin.com/company/virtuslab
           - item:
             name: Visual One Intelligence (member)
             homepage_url: https://visualoneintelligence.com/
@@ -46625,6 +47054,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/wizconnected
           - item:
+            name: wolfSSL Inc. (member)
+            homepage_url: https://wolfssl.com/
+            logo: wolfssl_inc.svg
+            description: wolfSSL is an embedded SSL/TLS library providing secure communication for IoT, smart grid, connected home, routers, applications, games, phones, and more.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/wolfssl-inc
+            twitter: https://twitter.com/wolfSSL
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wolfssl
+          - item:
             name: Workato (member)
             homepage_url: https://workato.com/
             logo: workato.svg
@@ -46889,15 +47329,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/xosphereinc
           - item:
-            name: XPerf Inc. (member)
-            homepage_url: https://xperf.ai/
-            logo: xperf_inc.svg
-            description: XPerf validates AI racks before deployment, keeps clusters healthy in production, and increases productive output.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/xperf
-          - item:
             name: Xsight Labs (member)
             homepage_url: https://xsightlabs.com/
             logo: xsight_labs.svg
@@ -47093,6 +47524,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/zeevedeeptech
           - item:
+            name: Zenity Ltd (member)
+            homepage_url: https://zenity.io/
+            logo: zenity_ltd.svg
+            description: Zenity is the pioneering security governance platform for low code/no code applications, empowering secure and efficient business development with full visibility and control.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: ZenML (member)
             homepage_url: https://zenml.io/
             logo: zenml.svg
@@ -47162,6 +47600,17 @@ landscape:
             twitter: https://twitter.com/zoisays
             extra:
               linkedin_url: https://www.linkedin.com/company/zoilinks
+          - item:
+            name: Zoom Communications, Inc. (member)
+            homepage_url: https://zoom.us/
+            logo: zoom_communications_inc.svg
+            description: Zoom Video Communications, Inc. is a privately owned telecommunications company located in San Jose, CA. Zoom Video Communications offers services such as security, cloud, and partner integration.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/zoom-video-communications
+            twitter: https://twitter.com/Zoom
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zoom-video-communications
           - item:
             name: Zoss Team, LLC (member)
             homepage_url: https://bizapedia.com/ma/zoss-team-llc.html
@@ -47336,6 +47785,13 @@ landscape:
               - Project Membership / Confidential Computing Consortium (CCC)
             extra:
               linkedin_url: https://www.linkedin.com/company/acurast-association
+          - item:
+            name: Adams Career Academy Assoc. (member)
+            homepage_url: https://adamscareeracademy.org/
+            logo: adams_career_academy_assoc.svg
+            description: STEM, AI, and career training for K-12 students, adults, veterans, and older learners. Credentials, paid apprenticeships, and internships.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: AddressForAll Institute (member)
             homepage_url: https://addressforall.org/
@@ -47565,6 +48021,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/fundacion-nebrija
           - item:
+            name: Aoyama Gakuin University (member)
+            homepage_url: https://aoyama.ac.jp/
+            logo: aoyama_gakuin_university.svg
+            description: 青山学院大学公式アカウント Instagram ☞ https://t.co/pKpubxWson… Facebook ☞ https://t.co/77PMUAQ6xt 青学TV ☞ https://t.co/nvrjZVM3RJ
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Overture Maps Foundation Fund
+            crunchbase: https://www.crunchbase.com/organization/aoyama-gakuin-university
+            twitter: https://twitter.com/AoyamaGakuinU
+            extra:
+              linkedin_url: https://www.linkedin.com/company/%e9%9d%92%e5%b1%b1%e5%ad%a6%e9%99%a2%e5%a4%a7%e5%ad%a6
+          - item:
             name: Apereo Foundation (member)
             homepage_url: https://apereo.org/
             logo: apereo_foundation.svg
@@ -47573,6 +48041,12 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/apereo-foundation
+          - item:
+            name: Apex Fusion Foundation (member)
+            homepage_url: https://foundation.apexfusion.org/
+            logo: apex_fusion_foundation.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: apiaddicts (member)
             homepage_url: https://apiaddicts.org/
@@ -48620,6 +49094,7 @@ landscape:
               - Project Membership / LF Decentralized Trust
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/deutsche-bundesbank
           - item:
             name: DHIT (member)
@@ -50094,6 +50569,13 @@ landscape:
               - Project Membership / Open 3D Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/experiential-technology-innovation-centre
+          - item:
+            name: Indira University (member)
+            homepage_url: https://indirauniversity.edu.in/
+            logo: indira_university.svg
+            description: Indira Group of Institutes is now Indira University, one of the top universities in Pune with 31+ years of academic excellence and industry-focused programs.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Industrial Technology Research Institute (ITRI) (member)
             homepage_url: https://itri.org.tw/
@@ -51574,6 +52056,17 @@ landscape:
             twitter: https://twitter.com/niabgroup
             extra:
               linkedin_url: https://www.linkedin.com/company/niab
+          - item:
+            name: NIST (member)
+            homepage_url: https://nist.gov/
+            logo: nist.svg
+            description: The National Institute of Standards and Technology is a measurement standards laboratory which is a non-regulatory agency of the United States Department of Commerce.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/national-institute-of-standards-and-technology-nist
+            twitter: https://twitter.com/NIST
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nist
           - item:
             name: nixsy-ai-labs (member)
             homepage_url: https://ai-lab.host/
@@ -54075,6 +54568,24 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/boston-university
           - item:
+            name: TrustLayer Foundation (member)
+            homepage_url: https://trustlayer.foundation/
+            logo: trustlayer_foundation.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: TÜBİTAK BİLGEM (member)
+            homepage_url: https://bilgem.tubitak.gov.tr/
+            logo: tubitak_bilgem.svg
+            description: TÜBİTAK Space Technologies Research Institute or TÜBİTAK UZAY for short, is a Turkish institution carrying out research and development projects on space technology, electronics, information technology and related fields.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Trust Over IP Project (ToIP)
+            crunchbase: https://www.crunchbase.com/organization/tbtak
+            twitter: https://twitter.com/Tubitak
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tubitak
+          - item:
             name: Tyche Institute (member)
             homepage_url: https://tyche.institute/
             logo: tyche_institute.svg
@@ -54082,6 +54593,14 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Trust Over IP Project (ToIP)
+          - item:
+            name: Typelevel Foundation (member)
+            homepage_url: https://typelevel.org/
+            logo: typelevel_foundation.svg
+            description: Typelevel is an ecosystem of projects and a community of people united to foster an inclusive, welcoming, and safe environment around functional programming in Scala. They provide type classes, instances, supplements to the standard library, and much m...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
           - item:
             name: UC San Diego (member)
             homepage_url: https://ucsd.edu/
@@ -54154,6 +54673,14 @@ landscape:
             twitter: https://twitter.com/UofNH
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-new-hampshire
+          - item:
+            name: Unisinos (member)
+            homepage_url: https://unisinos.br/
+            logo: unisinos.svg
+            description: Unisinos is a private Jesuit university that offers a wide range of undergraduate and graduate programs across its campuses in São Leopoldo and Porto Alegre, as well as distance education courses available through various locations throughout Brazil.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Broadband Fund
           - item:
             name: United Nations (International Computing Centre) (member)
             homepage_url: https://unicc.org/
@@ -54301,6 +54828,18 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Universitat Politècnica de València UPV (member)
+            homepage_url: https://upv.es/
+            logo: universitat_politecnica_de_valencia_upv.svg
+            description: Portal oficial de la Universitat Politècnica de València, institución pública de prestigio y líder en investigación que acoge a 40.000 alumnos. Información sobre admisión, estudios, investigación y organización para alumnos, estudiantes, orientadores, ...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / OpenPOWER Foundation
+            crunchbase: https://www.crunchbase.com/organization/polytechnic-university-of-valencia
+            twitter: https://twitter.com/UPV
+            extra:
+              linkedin_url: https://www.linkedin.com/company/upv
+          - item:
             name: Universitat Rovira i Virgili (member)
             homepage_url: https://urv.cat/
             logo: universitat_rovira_i_virgili.svg
@@ -54314,6 +54853,13 @@ landscape:
             twitter: https://twitter.com/universitatURV
             extra:
               linkedin_url: https://www.linkedin.com/company/universitaturv
+          - item:
+            name: Université du Québec à Trois-Rivières (member)
+            homepage_url: https://uqtr.ca/
+            logo: universite_du_quebec_a_trois_rivieres.svg
+            description: Université du Québec à Trois-Rivières (UQTR) is a French-language public university founded on March 19, 1969. With a strong focus on student quality, faculty expertise, and research growth, UQTR values education, scientific innovation, entrepreneurshi...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Université Libre de Tunis (member)
             homepage_url: https://ult-tunisie.com/
