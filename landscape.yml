@@ -31240,7 +31240,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/codethink-limited
           - item:
             name: CodeVisionary (member)
-            homepage_url: https://codevisionary.ai/
+            homepage_url: https://ascendnow.ai/
             logo: codevisionary.svg
             description: .
             second_path:
@@ -32968,6 +32968,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/dvloper-io
             extra:
               linkedin_url: https://www.linkedin.com/company/dvloper-io
           - item:
@@ -33949,10 +33950,15 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.com/
+            homepage_url: https://factory.ai/
             logo: factory.svg
+            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/factory-19d8
+            extra:
+              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -42147,7 +42153,12 @@ landscape:
             name: Rockwell Automation (member)
             homepage_url: https://rockwellautomation.com/
             logo: rockwell_automation.svg
-            description: 'Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its customers more productive and the world more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 22,000 people serving customers in more than 80 countries.'
+            description: |-
+              Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its customers more productive and the world more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 22,000 people serving customers in more than 80 countries.
+
+              --- Merged Data:
+
+              Rockwell Automation is the global leader in industrial automation, offering innovative solutions to enhance productivity and sustainability for manufacturers.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
@@ -54912,6 +54923,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Green Software Foundation Fund
+              - Project Membership / P4 Fund
           - item:
             name: University of British Columbia (member)
             homepage_url: https://ubc.ca/
