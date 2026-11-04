@@ -392,7 +392,6 @@ landscape:
             description: The Aether Fund supports the Aether Project.
             second_path:
               - Project Group / The Linux Foundation
-              - PMO Managed / All
               - Technology Sector / Networking & Edge
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -2576,7 +2575,6 @@ landscape:
             description: CDEvents Project was created within CDFoundation Community by the Special Interest Group Events and was accepted to join CDFoundation as an incubation level project by CDFoundation Technical Oversight Committee on December 7, 2021.
             second_path:
               - Project Group / Continuous Delivery Foundation (CDF)
-              - PMO Managed / All
               - Technology Sector / DevOps, CI:CD & Site Reliability
             repo_url: https://github.com/cdevents/spec
             license: TBD / NA
@@ -5508,7 +5506,6 @@ landscape:
             description: Delta Lake is an open source storage layer that brings reliability to data lakes.
             second_path:
               - Project Group / LF AI & Data
-              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/delta-io/delta
@@ -12407,7 +12404,6 @@ landscape:
             description: Linux Foundation Connectivity (LFC) is an open source project under the Linux Foundation focused on advancing technologies that will accelerate emerging network and connectivity applications.
             second_path:
               - Project Group / The Linux Foundation
-              - PMO Managed / All
               - Technology Sector / Networking & Edge
             repo_url: https://github.com/lf-connectivity/maveric
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -13847,7 +13843,6 @@ landscape:
             logo: mlflow.svg
             description: MLflow is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry.
             second_path:
-              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
@@ -15182,7 +15177,6 @@ landscape:
             logo: onmi_project.svg
             description: The mission of the ONMI (Open Network Modeling and Interfaces) Project is to develop open models, interface specifications and supporting tooling for management and control of transport networks, including optical and wireless technologies.
             second_path:
-              - PMO Managed / All
               - Technology Sector / Networking & Edge
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -15277,7 +15271,6 @@ landscape:
               Logo has changed.
             second_path:
               - Project Group / The Linux Foundation
-              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/o3de/o3de
@@ -18510,6 +18503,7 @@ landscape:
             description: OSERSA is a FINOS effort to fund backpatching of critical dependencies for financial services, define standard formats for vulnerabilities remediation  and tools for accelerated consumption at scale in regulated industries
             second_path:
               - Project Group / FINOS (The Fintech Open Source Foundation)
+              - PMO Managed / All
               - Technology Sector / Cross-Technology
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -18747,7 +18741,6 @@ landscape:
             description: Cloud Native Buildpack implementations for popular programming language ecosystems.
             second_path:
               - Project Group / Cloud Foundry Foundation (CFF)
-              - PMO Managed / All
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
@@ -19386,7 +19379,6 @@ landscape:
             description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
             second_path:
               - Project Group / The Presto Foundation
-              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
@@ -22102,7 +22094,6 @@ landscape:
             description: SONiC is an open source network operating system based on Linux that runs on switches from multiple vendors and ASICs. SONiC offers a full-suite of network functionality, like BGP and RDMA, that has been production-hardened in the data centers of some of the largest cloud-service providers.
             second_path:
               - Project Group / SONiC Fund
-              - PMO Managed / All
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / Networking & Edge
             repo_url: https://github.com/sonic-net/SONiC
@@ -22949,7 +22940,6 @@ landscape:
             description: To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure layer of this ecosystem.  To develop a reference implementation of the cloud software framework and create a validation program for such implementations with Europe Requirements.
             second_path:
               - Project Group / Sylva Fund
-              - PMO Managed / All
               - Technology Sector / Networking & Edge
             repo_url: https://gitlab.com/sylva-projects/sylva
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -24161,7 +24151,6 @@ landscape:
             description: Trust Over IP provides a robust, common standard and complete architecture for Internet-scale digital trust.
             second_path:
               - Project Group / LF Decentralized Trust
-              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -26581,6 +26570,7 @@ landscape:
             logo: 24x7_geeks_solutions_pvt_ltd.svg
             description: Geeks Solutions is a Managed IT Services & Cloud Solutions company established in 2007 to provide solutions on multi cloud platforms.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/geeks-solutions
             extra:
@@ -29803,6 +29793,7 @@ landscape:
             logo: buf_technologies_inc.svg
             description: Create, maintain and consume Protobuf Buffer APIs with our modern Protocol Buffers ecosystem
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/buf-technologies
             twitter: https://twitter.com/bufbuild
@@ -30752,6 +30743,18 @@ landscape:
             description: cli.cloud offers a platform for deploying applications, connecting AI models, and integrating managed databases, allowing users to build their projects using preferred tools and hardware.
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: ClickHouse, Inc. (member)
+            homepage_url: https://clickhouse.com/
+            logo: clickhouse_inc.svg
+            description: ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/clickhouse
+            twitter: https://twitter.com/ClickHouseDB
+            extra:
+              linkedin_url: https://www.linkedin.com/company/clickhouseinc
           - item:
             name: Clockwork.io (member)
             homepage_url: https://clockwork.io/
@@ -34000,6 +34003,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
+              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/fannie-mae
             twitter: https://twitter.com/FannieMae
             extra:
@@ -34154,6 +34158,15 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Camara Fund
+          - item:
+            name: Focused Labs Inc (member)
+            homepage_url: https://focused.io/
+            logo: focused_labs_inc.svg
+            description: Technology can enable your best ideas. Focused Labs is the digital transformation partner that delivers both the technology and the culture you need.
+            second_path:
+              - Project Membership / The Linux Foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/build-focused-labs
           - item:
             name: Fongcon Co. Ltd. (member)
             homepage_url: https://fongcon.com.tw/
@@ -35303,6 +35316,7 @@ landscape:
             description: HERE is focused on the concept of location and the potential it has to improve the way business is done. In 1985 they started with a goal to digitize mapping and in-car navigation systems. Today they are creating living 3D maps that grow with levels of information and insights including tracking, traffic, and location services. HERE is used by the automotive, logistics, telecommunications, media, retail, and insurance industries. HERE is headquartered in Amsterdam, The Netherlands with offices around the world.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/here-inc
             twitter: https://twitter.com/here
             extra:
@@ -36439,48 +36453,25 @@ landscape:
             homepage_url: https://itmethods.com/
             logo: itmethods.svg
             description: |-
-              iTmethods is a critical infrastructure operator and the company behind Reign, the control and assurance layer for enterprise AI. 
+              Reign from iTmethods builds and operates the controls that let regulated enterprises put AI agents to work and show what they did. Founded in 2005 and headquartered in Toronto, iTmethods is privately held, founder-led and profitable. Led by founder and CEO Paul Goldman, it has run mission-critical technology environments for more than twenty years for banks, capital markets firms, healthcare and life sciences companies, technology, semiconductor and more.
 
-              Founded in 2005 and headquartered in Toronto, iTmethods is privately held, founder-led, and has operated profitably for more than two decades. The company delivers mission-critical technology environments for regulated institutions across banking, capital markets, insurance, healthcare and life sciences, defence, energy, and the public sector.
+              Reign is three products that share one record of what happened.
 
-              iTmethods builds and operates the layer that enables regulated enterprises to adopt artificial intelligence safely, sovereignly, and in a way that can be continuously proven. As organizations delegate real business work to AI models and autonomous agents, the central challenge shifts from infrastructure security to whether autonomous actions remain within approved business intent, authority, and risk tolerance, and whether that can be demonstrated to regulators, auditors, and boards.
+              Reign Factory turns tickets into reviewed pull requests. Agents plan the change, write and test the code, and open the pull request. A named human reviewer approves every change, and a provenance record of the agent, model, checks and approver stays in the customer's account.
 
-              Reign: Continuous operational assurance for enterprise AI
+              Reign Gateway gives teams and agents one governed path to the models they use. Every call is checked for identity, approved models and tools, spend and sensitive content, and every call leaves a record in the customer's account.
 
-              Reign is iTmethods' platform for continuous operational assurance of enterprise AI. It functions as both a control plane and an assurance layer. Before an AI agent takes a consequential action, Reign authorizes it against policy and risk appetite. After the action, Reign validates the outcome, scores residual risk, and creates a tamper-evident, audit-grade record of what occurred, under what policy, on what data, and what changed.
+              Reign Ops operates the engineering platform underneath: build and delivery tools, artifact registries and Managed Fluxnova, a managed service for the FINOS Fluxnova process orchestration project. Customers keep their code, their policies and their approvals.
 
-              When a decision is high-risk or ambiguous, Reign holds the action and escalates to a human, capturing that authorization as part of the permanent record. The platform is model-agnostic and vendor-neutral by design. It enables institutions to run any model from any provider behind a control point they own, substitute models under commercial or regulatory pressure without losing workflow continuity or audit history, and govern runtime behavior while producing evidence on demand.
+              Where it runs
 
-              Reign supports a range of deployment topologies to meet different sovereignty requirements, including multi-tenant SaaS, single-tenant dedicated environments, customer cloud, and fully air-gapped deployments with customer-owned keys and data residency.
+              Reign is single-tenant. It runs in a dedicated instance that iTmethods operates, or in the customer's own cloud account on AWS or Azure. Google Cloud is planned for 2027. Air-gapped and sovereign deployment are supported. Reign runs on the stack you already have.
 
-              Forge: Managed runtime for enterprise AI workloads
+              Open source and open standards
 
-              Forge is iTmethods' managed runtime for the foundational layer beneath enterprise AI. It encompasses DevOps and software delivery tooling, agent runtime operations, governed foundation model access, a vendor-neutral tool and protocol fabric for autonomous workflows, and sovereign control of compute, data, and models. Forge brings more than twenty years of experience operating regulated technology environments into a managed offering, allowing institutions to run modern AI and engineering workloads inside their trust boundary.
+              iTmethods is a Silver Member of the Linux Foundation and takes part in the Agentic AI Foundation, supporting open agentic standards including the Model Context Protocol (MCP). In the FINOS community, iTmethods takes part in the SDLC Common Controls work on evidence for agent-authored change. The models are portable, and the layer that governs them should be too.
 
-              Forge also includes Forge Secure AI, a structured practice to assess, harden, and sustain production-grade autonomous operations.
-
-              Open standards and open source commitment
-
-              iTmethods is a Silver Member of the Linux Foundation. The company believes the control and assurance layer of the AI stack should be built on open standards and designed for portability and substitutability, so that no enterprise becomes locked into a single model, cloud, or vendor.
-
-              iTmethods participates in the Linux Foundation's Agentic AI Foundation and supports open agentic AI standards, including the Model Context Protocol (MCP). It also engages with the open-source-in-finance community, including work aligned with FINOS, the Fintech Open Source Foundation and another Linux Foundation project, and offers Managed Fluxnova, a managed service for the FINOS-aligned Fluxnova process orchestration project.
-
-              The company maps its platform to major public and industry AI governance frameworks rather than to any single proprietary standard. This includes alignment with OSFI Guideline E-23, U.S. Federal Reserve model risk guidance, the EU AI Act, DORA, the NIST AI Risk Management Framework, ISO/IEC 42001, the FINOS AI Governance Framework, and relevant FDA requirements.
-
-              Credentials and partnerships
-
-              iTmethods is an AWS Advanced Tier Partner and a Validated AWS Managed Service Provider, maintains a SOC 2 Type II audit posture, is a member of the NVIDIA Inception program, and is a Services Partner in the Claude Partner Network.
-
-              Industries and regulatory focus
-
-              iTmethods serves regulated and critical infrastructure sectors where AI governance requirements are highest. Its platform is designed to support the model risk management, operational resilience, and evidence expectations that apply in banking and capital markets, insurance, healthcare and life sciences, defence, and energy.
-
-              Leadership and operating heritage
-
-              iTmethods was founded in 2005 and is led by founder and CEO Paul Goldman. The company has maintained independent, profitable operations for more than twenty years while building deep expertise in regulated, mission-critical environments. This operator heritage informs the design of Reign and Forge.
-
-              Learn more: itmethods.com
-              Enterprise AI. Governed.
+              itmethods.com/reign
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
@@ -38599,7 +38590,7 @@ landscape:
             name: Mistral AI (member)
             homepage_url: https://mistral.ai/
             logo: mistral_ai.svg
-            description: The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.
+            description: Frontier open-weight models you own and control. Customize with Forge, deploy with Studio, run on-prem, your VPC, or our cloud.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -40713,6 +40704,7 @@ landscape:
             logo: pgedge.svg
             description: pgEdge offers a fully distributed PostgreSQL solution optimized for the network edge, enabling low latency and ultra high availability by placing copies of databases close to users and facilitating seamless disaster recovery and maintenance.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/pgedge
           - item:
@@ -40924,6 +40916,7 @@ landscape:
             logo: platform_engineering_masters_gmbh.svg
             description: Platform Engineering is the global home for platform engineers, offering a community to learn from DevOps and cloud native experts, connect with practitioners, access defining articles, and explore open positions in platform teams.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/platform-engineering
             extra:
@@ -42368,6 +42361,13 @@ landscape:
             twitter: https://twitter.com/SAP
             extra:
               linkedin_url: https://www.linkedin.com/company/sap
+          - item:
+            name: SASHA (member)
+            homepage_url: https://sasha.eu/
+            logo: sasha.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
           - item:
             name: SAS Institute Inc. (member)
             homepage_url: https://sas.com/
