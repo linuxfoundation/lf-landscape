@@ -19152,7 +19152,6 @@ landscape:
               annotations:
                 project_org: https://github.com/platform-mesh
             additional_repos:
-              - repo_url: https://github.com/platform-mesh/helm-charts
               - repo_url: https://github.com/platform-mesh/portal
               - repo_url: https://github.com/platform-mesh/provider-quickstart
               - repo_url: https://github.com/platform-mesh/platform-mesh.github.io
@@ -31740,6 +31739,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cpmc-llc
           - item:
+            name: Cracken (member)
+            homepage_url: https://cracken.ai/
+            logo: cracken.svg
+            description: Cracken specializes in AI-driven penetration testing and adversarial exposure validation, providing comprehensive assessments of exploitable attack paths within client infrastructures throughout the entire cyber kill chain.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Crafty Penguins (member)
             homepage_url: https://craftypenguins.net/
             logo: crafty_penguins.svg
@@ -37174,13 +37180,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kublr
           - item:
-            name: Kunlun Technologies (member)
-            homepage_url: https://kunlunit.com/
-            logo: kunlun_technologies.svg
-            description: 河南昆仑技术有限公司 is a leading IT provider specializing in general computing, AI, software, and data services, offering stable, secure, and innovative solutions for digital transformation across various industries.
-            second_path:
-              - Project Membership / The Linux Foundation
-          - item:
             name: Kusari Inc (member)
             homepage_url: https://kusari.dev/
             logo: kusari_inc.svg
@@ -38883,9 +38882,9 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/montavista-software
           - item:
             name: Monty UK Global Ltd (member)
-            homepage_url: https://montyholding.com/
+            homepage_url: https://montymobile.com/
             logo: monty_uk_global_ltd.svg
-            description: Monty Holding, established in 1998, is a telecom powerhouse with global connections and a focus on cutting-edge solutions for partners in diverse sectors.
+            description: Monty Mobile is a global telecom technology enabler serving mobile operators, enterprises and hyperscalers. Its in-house solutions span messaging, connectivity, fintech and AI-driven fraud prevention, including CPaaS and eSIM platforms. Headquartered in London with 15 regional offices across Africa, Asia, Europe and the Middle East, Monty Mobile delivers services in more than 200 countries and reaches over 1.8 billion mobile subscribers. Learn more at montymobile.com.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Camara Fund
@@ -42289,6 +42288,7 @@ landscape:
             logo: salesforce_com_inc.svg
             description: Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social, mobile and open cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's platform and application services allow customers to create employee and customer social networks, empower small business and extend a company's social enterprise with applications.
             second_path:
+              - Project Membership / OpenAPI Initiative
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Open Source Security Foundation (OpenSSF)
@@ -45488,6 +45488,7 @@ landscape:
             second_path:
               - Project Membership / OpenJS Foundation
               - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/cloud-linux-inc
             twitter: https://twitter.com/CloudLinuxOS
@@ -47237,12 +47238,6 @@ landscape:
             twitter: https://twitter.com/wso2
             extra:
               linkedin_url: https://www.linkedin.com/company/wso2
-          - item:
-            name: Wuhan Yangtze Computing Technology Co.LTD (member)
-            homepage_url: https://yctco.com.cn/
-            logo: wuhan_yangtze_computing_technology_co.svg
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: WunderGraph, Inc. (member)
             homepage_url: https://wundergraph.com/
