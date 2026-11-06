@@ -3740,7 +3740,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-07-09'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cobol-working-group
               lfx_slug: cobol-working-group
               other_links:
                 - name: Calendar
@@ -4269,7 +4268,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-10-13'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cds-customerdata-wg
               lfx_slug: cds-customerdata-wg
               other_links:
                 - name: Calendar
@@ -4289,7 +4287,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-10-13'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cds-powersystemsdata-wg
               lfx_slug: cds-powersystemsdata-wg
               other_links:
                 - name: Calendar
@@ -4309,7 +4306,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-06-26'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cds-registration-wg
               lfx_slug: cds-registration-wg
               other_links:
                 - name: Calendar
@@ -5464,7 +5460,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-11-28'
-              dev_stats_url: https://insights.linuxfoundation.org/project/dei-working-group
               lfx_slug: dei-working-group
               other_links:
                 - name: Calendar
@@ -6699,7 +6694,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-02-01'
-              dev_stats_url: https://insights.linuxfoundation.org/project/end-users-working-group
               lfx_slug: end-users-working-group
               other_links:
                 - name: Calendar
@@ -11242,7 +11236,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2017-01-01'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cip-kernel-team-working-group-wg
               lfx_slug: cip-kernel-team-working-group-wg
               other_links:
                 - name: Calendar
@@ -17194,7 +17187,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-09-07'
-              dev_stats_url: https://insights.linuxfoundation.org/project/open-review-initiative
               lfx_slug: open-review-initiative
               other_links:
                 - name: Calendar
@@ -18376,7 +18368,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-04-18'
-              dev_stats_url: https://insights.linuxfoundation.org/project/wg-orbit
               lfx_slug: wg-orbit
               other_links:
                 - name: Calendar
@@ -23334,7 +23325,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-03-11'
-              dev_stats_url: https://insights.linuxfoundation.org/project/tazama-anti-financial-crime-working-group
               lfx_slug: tazama-anti-financial-crime-working-group
               other_links:
                 - name: Calendar
@@ -23528,7 +23518,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2017-01-01'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cip-testing-working-group-wg
               lfx_slug: cip-testing-working-group-wg
               other_links:
                 - name: Calendar
@@ -24095,7 +24084,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-01'
-              dev_stats_url: https://insights.linuxfoundation.org/project/trolie
               lfx_slug: trolie
               other_links:
                 - name: Calendar
@@ -25936,7 +25924,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-10'
-              dev_stats_url: https://insights.linuxfoundation.org/project/omp-ztrust-wg
               lfx_slug: omp-ztrust-wg
               other_links:
                 - name: Calendar
@@ -26750,7 +26737,6 @@ landscape:
             description: Accr8 is building a way for finance leaders to measure the realized return on AI spend. The goal is value tied to business outcomes, backed by evidence you can put in front of a board. Tokens, seats and usage show what AI consumed. We focus on what it delivered, so finance can decide what to scale and where the next dollar goes.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
           - item:
             name: ACKSTORM (member)
             homepage_url: https://ackstorm.com/
@@ -36810,7 +36796,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/jvckenwood-technologies-singapore-pte-ltd-
           - item:
             name: Kaia Technologies, Inc. (member)
-            homepage_url: https://kaia.inc/
+            homepage_url: https://onekaia.com/
             logo: kaia_technologies_inc.svg
             second_path:
               - Project Membership / The Linux Foundation
@@ -40563,13 +40549,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Academy Software Foundation (ASWF)
           - item:
-            name: Parsimo Inc. (member)
-            homepage_url: https://parsimo.ai/
-            logo: parsimo_inc.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-          - item:
             name: Partior Pte Ltd (member)
             homepage_url: https://partior.com/
             logo: partior_pte_ltd.svg
@@ -42328,6 +42307,14 @@ landscape:
             twitter: https://twitter.com/westerndigital
             extra:
               linkedin_url: https://www.linkedin.com/company/western-digital
+          - item:
+            name: San Francisco Compute (member)
+            homepage_url: https://sfcompute.com/
+            logo: san_francisco_compute.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/the-san-francisco-compute-company
           - item:
             name: Sapiencia (member)
             homepage_url: https://sapiencia.ai/
@@ -46309,7 +46296,7 @@ landscape:
             name: voygr (member)
             homepage_url: https://voygr.tech/
             logo: voygr.svg
-            description: High-fidelity location data layer for analytics, agents & apps. From address & contact details to hours, menus, prices. Maps tag places — VOYGR understands.
+            description: The real-world intelligence and action layer. Enrich your POI data. Get local prospects. Connect your AI to millions of businesses.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Overture Maps Foundation Fund
