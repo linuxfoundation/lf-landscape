@@ -2839,9 +2839,9 @@ landscape:
                 project_org: https://github.com/chaos-mesh
             additional_repos:
               - repo_url: https://github.com/chaos-mesh/website
-              - repo_url: https://github.com/chaos-mesh/chaosd
               - repo_url: https://github.com/chaos-mesh/chaos-tproxy
               - repo_url: https://github.com/chaos-mesh/toda
+              - repo_url: https://github.com/chaos-mesh/chaosd
               - repo_url: https://github.com/chaos-mesh/rfcs
           - item:
             name: CHAOSS
@@ -6292,6 +6292,11 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NYCPZQA5
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/dynawo_charter.pdf
+              annotations:
+                project_org: https://github.com/dynawo
+            additional_repos:
+              - repo_url: https://github.com/dynawo/dynaflow-launcher
+              - repo_url: https://github.com/dynawo/dynawo-algorithms
           - item:
             name: easegress
             homepage_url: https://github.com/megaease/easegress
@@ -7004,6 +7009,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkEVlQAN
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/everest/everest_Charter.pdf?v=1782771544902
+              annotations:
+                project_org: https://github.com/EVerest
+            additional_repos: []
           - item:
             name: Evolution Working Group
             homepage_url: https://chaoss.community/
@@ -14079,7 +14087,7 @@ landscape:
             second_path:
               - Project Group / Academy Software Foundation (ASWF)
               - Technology Sector / Visual Effects
-            repo_url: https://github.com/dreamworksanimation/openmoonray
+            repo_url: https://github.com/OpenMoonRay/openmoonray
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -14093,6 +14101,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfaDrcxHo8MzJFIMzN
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/moonray/moonray_Charter.pdf?v=1773345969627
+              annotations:
+                project_org: https://github.com/OpenMoonRay
+            additional_repos: []
           - item:
             name: Moonwalk SIG
             homepage_url: https://github.com/OAI/sig-moonwalk
@@ -24090,6 +24101,9 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trolie
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoG7KUacGvkymUJjO
+              annotations:
+                project_org: https://github.com/trolie
+            additional_repos: []
           - item:
             name: TRS
             homepage_url: https://github.com/openwallet-foundation-labs/trs
@@ -26737,6 +26751,7 @@ landscape:
             description: Accr8 is building a way for finance leaders to measure the realized return on AI spend. The goal is value tied to business outcomes, backed by evidence you can put in front of a board. Tokens, seats and usage show what AI consumed. We focus on what it delivered, so finance can decide what to scale and where the next dollar goes.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: ACKSTORM (member)
             homepage_url: https://ackstorm.com/
@@ -33085,6 +33100,14 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
           - item:
+            name: Edge Computing Workbench (member)
+            homepage_url: https://edgebench.io/
+            logo: edge_computing_workbench.svg
+            description: Edge Computing Workbench offers a comprehensive web platform that enables users to remotely flash, test, and monitor real edge devices, enhancing the capabilities of digital surveillance systems through advanced hardware testing and community-driven in...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
+          - item:
             name: Edgecore Network Corporation (member)
             homepage_url: https://edge-core.com/
             logo: edgecore_network_corporation.svg
@@ -39287,6 +39310,7 @@ landscape:
             name: Netzilo Inc (member)
             homepage_url: https://netzilo.com/
             logo: netzilo_inc.svg
+            description: Netzilo secures AI agents and the people who use them. Identity, access, governance, and detection and response for every agent, from the laptop to SaaS and cloud.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -45219,6 +45243,13 @@ landscape:
               - Project Membership / FINOS (The Fintech Open Source Foundation)
             extra:
               linkedin_url: https://www.linkedin.com/company/tokenovate
+          - item:
+            name: TokenSpark (member)
+            homepage_url: https://xhtoken.ai/
+            logo: tokenspark.svg
+            description: TokenSpark develops the Horizon X2.6 family of AI models and agents, including a Pro model designed for long-context processing and coding, and provides related API documentation.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Tolmo (member)
             homepage_url: https://tolmo.com/
