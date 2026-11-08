@@ -27930,6 +27930,13 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: AnswerRocket (member)
+            homepage_url: https://answerrocket.com/
+            logo: answerrocket.svg
+            description: AnswerRocket is an augmented analytics platform with Max, an AI copilot, enabling business users to ask questions in plain English and receive instant analysis and insights.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Ansys (member)
             homepage_url: https://ansys.com/
             logo: ansys.svg
@@ -32734,6 +32741,13 @@ landscape:
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalfish-inc
+          - item:
+            name: Digital Garage, Inc. (member)
+            homepage_url: https://garage.co.jp/
+            logo: digital_garage_inc.svg
+            description: Digital Garage, Inc. operates through Platform Solution, Long-Term Incubation, and Global Investment Incubation segments, providing integrated payment platforms and marketing solutions in Japan and internationally.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: DigitalOcean, LLC (member)
             homepage_url: https://digitalocean.com/
@@ -39324,6 +39338,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/neureality
           - item:
+            name: Neurologic AI LLC (member)
+            homepage_url: https://neurologicai.com/
+            logo: neurologic_ai_llc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Neusoft Corporation (member)
             homepage_url: https://neusoft.com/
             logo: neusoft_corporation.svg
@@ -41305,6 +41325,14 @@ landscape:
             twitter: https://twitter.com/PulumiCorp
             extra:
               linkedin_url: https://www.linkedin.com/company/pulumi
+          - item:
+            name: Pump (member)
+            homepage_url: https://pump.co/
+            logo: pump.svg
+            description: Pump is the fastest way to save 60% on AWS. They use AI and group buying to automate cloud savings with zero engineering input. Forbes has dubbed them the 'Costco of Cloud'. Startups can now save like big tech with Pump for free. Pump aligns finance an...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: Puzzle ITC AG (member)
             homepage_url: https://puzzle.ch/
@@ -44747,6 +44775,43 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
           - item:
+            name: Telstra Limited (member)
+            homepage_url: https://telstra.com/
+            logo: telstra_limited.svg
+            description: |-
+              Telstra is Australia��_��_s leading telecommunications and information services company, offering a full range of communications services and competing in all telecommunications markets. In Australia we provide 16.4 million mobile services, 7.4 million fixed voice services and 3 million retail fixed broadband services. We believe the more connected people are, the more opportunities they have. That's why we help create a brilliant connected future for everyone, everyday. That��_��_s why we build technology and content solutions that are simple and easy to use, including Australia��_��_s largest and fastest national mobile network. That��_��_s why we strive to serve and know our customers better than anyone else ��_��_��_ offering a choice of not just digital connection, but digital content as well. And that��_��_s why we have an international presence spanning 15 countries, including China. In the 21st century, opportunity belongs to connected businesses, governments, communities and individuals. As Australia��_��_s leading telecommunications and information services company, Telstra is proud to be helping our customers improve the ways in which they live and work through connection.
+
+
+
+
+
+              Website
+
+              http://www.telstra.com
+
+              Industry
+
+              Telecommunications
+
+              Type
+
+              Public Company
+
+              Company Size
+
+              10,001+ employees
+
+              Founded
+
+              1901
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Camara Fund
+            crunchbase: https://www.crunchbase.com/organization/telstra-ventures
+            twitter: https://twitter.com/Telstra
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telstra
+          - item:
             name: TELUS Corporation (member)
             homepage_url: https://telus.com/
             logo: telus_corporation.svg
@@ -46043,6 +46108,13 @@ landscape:
             homepage_url: https://vecentek.com/
             logo: vecentek.svg
             description: Vecentek is a top company in intelligent connected vehicles, honored for their 2023 standardization work. They focus on future trends and challenges in the smart car industry.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Vectra AI (member)
+            homepage_url: https://vectra.ai/
+            logo: vectra_ai.svg
+            description: Vectra AI is a leading cybersecurity company that uses AI to detect and prioritize cyberattacks in real time, protecting businesses from advanced threats across various networks.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -54131,6 +54203,22 @@ landscape:
             twitter: https://twitter.com/alumni_thapar
             extra:
               linkedin_url: https://www.linkedin.com/company/tietofficial
+          - item:
+            name: The Aerospace Corporation (member)
+            homepage_url: https://aerospace.org/
+            logo: the_aerospace_corporation.svg
+            description: |-
+              The Aerospace Corporation is an American California nonprofit corporation that operates a federally funded research and development center headquartered in El Segundo, California.
+
+              --- Merged Data:
+
+              The Aerospace Corporation provides technical and scientific research, development, and advisory services to national security space programs. It operates a federally funded research and development center for the United States Air Force and the National Reconnaissance Office, and supports national security space programs scientific research and analysis, systems development, and systems acquisition solutions.  In addition, it offers engineering support to the development and application of launch systems, including guidance and control, electrical systems, vehicle performance, structural mechanics, vehicle environments, and flight and ground software solutions; and cyber security services that include cyber engineering, and software and testing services, as well as information assurance technology.  It serves military, intelligence, civil, commercial, universities, and international organizations. The Aerospace Corporation was founded in 1960 and is based in El Segundo, California.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/the-aerospace-corporation
+            twitter: https://twitter.com/AerospaceCorp
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-aerospace-corporation
           - item:
             name: The Agentic State (member)
             homepage_url: https://agenticstate.org/
