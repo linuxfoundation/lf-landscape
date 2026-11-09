@@ -38219,6 +38219,13 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Mearum (member)
+            homepage_url: https://mearum.com/
+            logo: mearum.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
+          - item:
             name: MediaTek USA Inc. (member)
             homepage_url: https://mediatek.com/
             logo: mediatek_usa_inc.svg
@@ -39964,6 +39971,12 @@ landscape:
             twitter: https://twitter.com/NXP
             extra:
               linkedin_url: https://www.linkedin.com/company/nxp-semiconductors
+          - item:
+            name: NY Token Exchange (member)
+            homepage_url: https://nytokenexchange.com/
+            logo: ny_token_exchange.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: o9 Solutions, Inc. (member)
             homepage_url: https://o9solutions.com/
@@ -42270,6 +42283,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/runwhen
             extra:
               linkedin_url: https://www.linkedin.com/company/runwhen
+          - item:
+            name: RWX (member)
+            homepage_url: https://rwx.com/
+            logo: rwx.svg
+            description: rwx develops products aimed at enhancing the developer experience by optimizing build and test performance and reliability.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
           - item:
             name: RX-M, LLC (member)
             homepage_url: https://rx-m.com/
