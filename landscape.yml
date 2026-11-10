@@ -549,6 +549,26 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agent-router/agent-router_Charter.pdf?v=1785440085505
           - item:
+            name: Agent Skills
+            homepage_url: https://agentskills.io/
+            logo: agent_skills.svg
+            description: Agent Skills is an open format for packaging specialized knowledge and workflows so AI agents can perform specific tasks reliably. Each skill is a portable folder containing a SKILL.md file with metadata and instructions, and it can also include scripts, templates, and reference materials. Agents load skills only when a task calls for them, and a skill written once runs in any compatible agent. Anthropic created the format, and 46 agent products now support it, including products from Microsoft, Google, OpenAI, JetBrains, and AWS.
+            second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/agentskills/agentskills
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/agent-skills
+              lfx_slug: agent-skills
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agent-skills
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4r8dnKQrF2ro1jUa
+          - item:
             name: AGENTS.md
             homepage_url: https://agents.md/
             logo: agents.svg
@@ -8699,8 +8719,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/geisa
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9JyPreYpr2H4waXR
-                - name: Charter
-                  url: https://github.com/lf-energy/foundation/blob/main/project_charters/geisa_charter.pdf
               annotations:
                 project_org: https://github.com/geisa
             additional_repos:
@@ -9519,6 +9537,31 @@ landscape:
                   url: https://github.com/lf-energy/foundation/blob/master/project_charters/hyphae_charter.pdf
               annotations:
                 project_org: https://github.com/hyphae
+            additional_repos: []
+          - item:
+            name: IBC
+            homepage_url: https://github.com/LFDT-IBC
+            logo: ibc.svg
+            description: develop a universal interoperability protocol that allows two different blockchains to communicate with one another
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/lfdt-ibc/ibc
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ibc
+              lfx_slug: ibc
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ibc
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfApnnOGyH3lT6fVfP
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ibc/ibc_Charter.pdf?v=1792538033728
+              annotations:
+                project_org: https://github.com/lfdt-ibc
             additional_repos: []
           - item:
             name: Identifiers and Discovery Working Group
@@ -11250,6 +11293,27 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cip-kernel-team-working-group-wg
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfPewjqqTbFGt0MIVb
+          - item:
+            name: Kevat
+            homepage_url: https://www.gridgain.com/products/gridgain-platform
+            logo: kevat.svg
+            description: develop a distributed in-memory computing platform that combines ultra-low-latency, ACID-transactional workloads with real-time analytics on horizontally scalable clusters
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Storage
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-11-03'
+              lfx_slug: gridgain-community-edition
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridgain-community-edition
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwTBtzEzAKK2Trlui
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gridgain-community-edition/gridgain-community-edition_Charter.pdf?v=1794271489747
           - item:
             name: Keycloak
             homepage_url: https://www.keycloak.org/
@@ -15430,7 +15494,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L17vCQAR
                 - name: Charter
-                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-asset-io_charter.pdf
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openassetio/openassetio_Charter.pdf
               annotations:
                 project_org: https://github.com/OpenAssetIO
             additional_repos:
@@ -19199,6 +19263,32 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfO8hBIYeFfMuRGip6
               annotations:
                 project_org: https://github.com/podman-desktop
+            additional_repos: []
+          - item:
+            name: Policy Labs
+            homepage_url: http://github.com/policylabs
+            logo: policy_labs.svg
+            description: develop a lightweight supply chain policy engine designed to be embedded across the software development lifecycle to make sure that source code, tools and the build environment can be trusted by verifying unforgeable metadata captured in signed attestations
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/policylabs/ampel
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/policy-labs
+              lfx_slug: policy-labs
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/policy-labs
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfUFbDq7L7Wzwcy6vJ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/policy-labs/policy-labs_Charter.pdf?v=1790102333671
+              annotations:
+                project_org: https://github.com/policylabs
             additional_repos: []
           - item:
             name: Portal Platform
@@ -23383,6 +23473,29 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/technical-stack-working-group
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfavQAD
+          - item:
+            name: Tegaris
+            homepage_url: https://github.com/LFDT-tegaris
+            logo: tegaris.svg
+            description: The mission of the project is to develop an application-layer privacy and policy control plane for shared EVM networks.
+            second_path:
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LFDT-tegaris/tegaris
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-28'
+              dev_stats_url: https://insights.linuxfoundation.org/project/tegaris
+              lfx_slug: tegaris
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tegaris
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6jUsO4Myi5teUQkd
+              annotations:
+                project_org: https://github.com/LFDT-tegaris
+            additional_repos: []
           - item:
             name: Tekton
             homepage_url: https://tekton.dev/
@@ -42291,6 +42404,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/rwx
           - item:
             name: RX-M, LLC (member)
             homepage_url: https://rx-m.com/
@@ -42891,7 +43005,7 @@ landscape:
             name: SGDL Innovation SA (member)
             homepage_url: https://sgdl.ai/
             logo: sgdl_innovation_sa.svg
-            description: SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling and simulation that integrate both modern and traditional technologies.
+            description: SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling and simulation that integrate both modern and traditional technologies..
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
