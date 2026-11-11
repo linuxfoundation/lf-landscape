@@ -527,6 +527,27 @@ landscape:
               - repo_url: https://github.com/aaif/project-proposals
               - repo_url: https://github.com/aaif/community-events
           - item:
+            name: Agent Name Service
+            homepage_url: https://github.com/godaddy/ans-registry
+            logo: agent_name_service.svg
+            description: ANS provides a foundational framework for secure discovery and interaction among AI agents.
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/agentnameservice/ans-spec
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-11-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/agent-name-services
+              lfx_slug: agent-name-services
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agent-name-services
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfNbxmlfIJODUbqBdA
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agent-name-services/agent-name-services_Charter.pdf?v=1794255514864
+          - item:
             name: Agent Router
             homepage_url: https://aigateway.envoyproxy.io/
             logo: agent_router.svg
@@ -2219,6 +2240,24 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf7zfqRcWZiKb8977Q
               youtube_url: https://www.youtube.com/@LFBroadband
               linkedin_url: https://www.linkedin.com/company/lf-broadband/
+          - item:
+            name: BUILD Foundation
+            homepage_url: https://www.linuxfoundation.org/
+            logo: build_foundation.svg
+            description: The purpose of the BUILD Foundation (the “Directed Fund”) is to raise, budget and spend funds in support of the open-source software projects relating to large-scale, multi-language software build systems, initially the Community for Bazel (each a “Technical Project”), in accordance with the provisions of this Charter.  The governance of the Technical Projects is as set forth in the charter for the Technical Projects.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / Cross-Technology
+            license: TBD / NA
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-14'
+              lfx_slug: build-foundation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/build-foundation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lflSuE9W2wJDKkWxKw
           - item:
             name: Buildpacks
             homepage_url: https://buildpacks.io/
@@ -7656,11 +7695,11 @@ landscape:
               annotations:
                 project_org: https://github.com/finos
             additional_repos:
-              - repo_url: https://github.com/finos/compliant-financial-infrastructure
-              - repo_url: https://github.com/finos/legend
-              - repo_url: https://github.com/finos/waltz
               - repo_url: https://github.com/finos/morphir
               - repo_url: https://github.com/finos/architecture-as-code
+              - repo_url: https://github.com/finos/common-domain-model
+              - repo_url: https://github.com/finos/git-proxy
+              - repo_url: https://github.com/finos/fluxnova-bpm-platform
           - item:
             name: FlagAI
             homepage_url: https://github.com/BAAI-Open
@@ -11306,10 +11345,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-11-03'
-              lfx_slug: gridgain-community-edition
+              lfx_slug: kevat
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridgain-community-edition
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kevat
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwTBtzEzAKK2Trlui
                 - name: Charter
@@ -28890,13 +28929,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/aviz-networks
           - item:
-            name: Avrio AI (member)
-            homepage_url: https://avrioai.com/
-            logo: avrio_ai.svg
-            description: Avrio AI provides an advanced AI platform that streamlines the recruiting process by efficiently finding, screening, and scheduling candidates from a vast pool of millions, significantly reducing the time required to hire across various industries and ...
-            second_path:
-              - Project Membership / The Linux Foundation
-          - item:
             name: awesome information technology (member)
             homepage_url: https://awesome-it.de/
             logo: awesome_information_technology.svg
@@ -43737,6 +43769,68 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/sooho
           - item:
+            name: Sophos Ltd. (member)
+            homepage_url: https://sophos.com/
+            logo: sophos_ltd.svg
+            description: |-
+              Industry	Computer Security, antivirus, computer software
+              Founded	1985
+              Founder	Jan Hruska and Peter Lammer
+              Headquarters	Abingdon, England (UK)
+              Key people
+              Peter Gyenes (Chairman)
+              Kris Hagerman (CEO)
+              Revenue	$446.7 million (2015)[1]
+              Operating income
+              $22.2 million (2015)[1]
+              Net income
+              $(60.0) million (2015)[1]
+              Number of employees
+              2,500 (2015)
+              Slogan	"Security made simple."
+              Website	sophos.com
+
+              Sophos Group plc is a security software and hardware company. Sophos develops products for communication endpoint, encryption, network security, email security and mobile security as well as unified threat management. Sophos is focused on providing security software to organizations, businesses, and individual users. It is listed on the London Stock Exchange and is a constituent of the FTSE 250 Index.
+
+              About us
+              Cybersecurity made simple. 
+
+              More than 100 million users in 150 countries rely on Sophos’ complete security solutions as the best protection against complex threats and data loss. Simple to deploy, manage, and use, Sophos’ award-winning encryption, endpoint security, web, email, mobile and network security solutions are backed by SophosLabs—a global network of threat intelligence centers. 
+
+              We began producing antivirus and encryption products nearly 30 years ago. Today our products help secure the networks of 100,000 businesses, including Pixar, Under Armour, Xerox, Ford, Avis, and Toshiba. 
+
+              As IT networks grow in complexity, we’re focused on keeping IT security simple and reliable. We know that a proper security strategy must include networks, servers and devices—all devices—managed easily through the cloud. We ensure your network’s security by providing the one thing no one else can: Simplicity. 
+
+              Sophos is headquartered in Oxford, U.K., and is publicly traded on the London Stock Exchange under the symbol “SOPH.” More information is available at: www.sophos.com/company
+
+              Recent updateSee all See all recent updates
+              Image accompanying recent update
+              This is TODAY! Join us at 2pm EST / 11am PST for this special tweet chat on the future of cybersecurity with Sophos' Dan Schiappa and Chet Wisniewski. Follow us on Twitter using #eWEEKchat and send through your questions! https://lnkd.in/dqEPaCM
+
+              5 Likes
+              Company details
+              Website
+              http://www.sophos.com/
+              Headquarters
+              Abingdon, Oxfordshire
+
+              Year founded
+              1985
+
+              Company type
+              Public Company
+
+              Company size
+              1,001-5,000 employees
+              Specialties
+              IT Security, Encryption, Next-Gen UTM (Unified Threat Management), Mobile Device Management, Endpoint Security, Antivirus, Email and Web Protection, Free Tools, Network Security, and Server Protection
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/sophos
+            twitter: https://twitter.com/Sophos
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sophos
+          - item:
             name: SORAMITSU CO., LTD. (member)
             homepage_url: https://soramitsu.co.jp/
             logo: soramitsu_co_ltd.svg
@@ -45516,6 +45610,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/traefik
           - item:
+            name: TRAILD (member)
+            homepage_url: https://traildsoftware.com/
+            logo: traild.svg
+            description: TRAILD specializes in accounts payable automation, utilizing advanced AI and OCR technology to streamline invoice processing, enhance payment protection, and minimize the risk of fraud and errors in financial transactions.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Trail of Bits (member)
             homepage_url: https://trailofbits.com/
             logo: trail_of_bits.svg
@@ -45774,12 +45875,7 @@ landscape:
             name: Twilio (member)
             homepage_url: https://twilio.com/
             logo: twilio.svg
-            description: |-
-              Twilio is headquartered out of California and was founded in 2007. They provide cloud communication services to customers. Over 400,000 software developers use this service today.
-
-              --- Merged Data:
-
-              With Twilio, unite communications and strengthen customer relationships across your business – from marketing and sales to customer service and operations.
+            description: With Twilio, unite communications and strengthen customer relationships across your business – from marketing and sales to customer service and operations.
             second_path:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/twilio
