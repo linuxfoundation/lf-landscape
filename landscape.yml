@@ -3150,6 +3150,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWeiDQAT
           - item:
+            name: Circulattice
+            homepage_url: https://github.com/Circulattice
+            logo: circulattice.svg
+            description: The mission of the project is to develop an open-source toolkit for constrained multilateral obligation netting, independent result verification, and liquidity-aware settlement research across conventional and tokenized financial infrastructure.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/Circulattice/governance
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-11-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/circulattice
+              lfx_slug: circulattice
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/circulattice
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGV3f823MBdMvNwaG
+              annotations:
+                project_org: https://github.com/Circulattice
+            additional_repos: []
+          - item:
             name: CitrineOS
             homepage_url: https://lfenergy.org/projects/citrineos/
             logo: citrineos.svg
@@ -8138,10 +8160,12 @@ landscape:
               - Project Group / Open Mainframe Project (OMP)
               - Technology Sector / System Engineering
               - Technology Sector / Web & Application Development
+            repo_url: https://github.com/gait-extension/Gait
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-09-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/gait
               lfx_slug: gait
               other_links:
                 - name: Calendar
@@ -8150,6 +8174,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfcH97f1lRKxLTEh9z
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/hlasm-for-vscode/hlasm-for-vscode_Charter.pdf?v=1790018446793
+              annotations:
+                project_org: https://github.com/gait-extension
+            additional_repos: []
           - item:
             name: Galasa
             homepage_url: https://galasa.dev/
@@ -29136,13 +29163,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
           - item:
-            name: bedigital (member)
-            homepage_url: https://bedigitaluk.com/
-            logo: bedigital.svg
-            description: bedigital is an innovative digital solutions provider that helps organizations transform their IT infrastructures by delivering tailored technology solutions that enhance efficiency, optimize operations, and empower collaboration among leaders to achie...
-            second_path:
-              - Project Membership / The Linux Foundation
-          - item:
             name: BEGASOFT (member)
             homepage_url: https://begasoft.ch/
             logo: begasoft.svg
@@ -35371,15 +35391,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: HawkStack Technologies Private Limited (member)
-            homepage_url: https://hawkstack.com/
-            logo: hawkstack_technologies_private_limited.svg
-            description: 'HawkStack Technology: Leading digital transformation with expertise in DevOps, Cloud, Automation, and Security for businesses of all sizes.'
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/hawkstack-technologies
-          - item:
             name: HAYO TELECOM (member)
             homepage_url: https://hayo.net/
             logo: hayo_telecom.svg
@@ -36421,6 +36432,13 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Ceph Foundation
             crunchbase: https://www.crunchbase.com/organization/intelligent-systems-services-inc
+          - item:
+            name: IntelliSOFT Consulting Limited (member)
+            homepage_url: https://intellisoftkenya.com/
+            logo: intellisoft_consulting_limited.svg
+            description: IntelliSOFT Consulting Ltd is a Kenyan technology company specializing in digital health solutions for Low to Medium Income Countries, with a focus on healthcare system development and optimization.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Intercept (member)
             homepage_url: https://intercept.cloud/
@@ -50583,16 +50601,7 @@ landscape:
             name: Hanyang University (member)
             homepage_url: https://beyond-g.hanyang.ac.kr/
             logo: hanyang_university.svg
-            description: |-
-              Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG. With campuses in Seoul and Ansan, the university emphasizes Love in Truth i...
-
-              --- Merged Data:
-
-              Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG. With campuses in Seoul and Ansan, the university emphasizes Love in Truth i...
-
-              --- Merged Data:
-
-              Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG. With campuses in Seoul and Ansan, the university emphasizes Love in Truth i...
+            description: Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -52155,7 +52164,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/naic
           - item:
             name: National Geospatial-Intelligence Agency (member)
-            homepage_url: https://www.nga.mil/
+            homepage_url: https://nga.mil/
             logo: national_geospatial_intelligence_agency.svg
             description: The National Geospatial-Intelligence Agency is a combat support agency within the United States Department of Defense whose primary mission is collecting, analyzing, and distributing geospatial intelligence in support of national security.
             second_path:
@@ -53539,6 +53548,13 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/riverine-plains-inc
+          - item:
+            name: RNP (member)
+            homepage_url: https://rnp.br/
+            logo: rnp.svg
+            description: The Rede Nacional de Ensino e Pesquisa (RNP) is a pioneering organization in Brazil, established in 1992 as the national internet access network. Since 2002, it has been a Social Organization linked to the Ministry of Science, Technology, and Innovatio...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Rochester Institute of Technology (member)
             homepage_url: https://rit.edu/
