@@ -12662,10 +12662,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-18'
-              lfx_slug: global-granular-certificate-registry
+              lfx_slug: lf-energy-registry-os
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/global-granular-certificate-registry
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-energy-registry-os
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGakS2hWkgslRD2Rt
                 - name: Charter
@@ -13058,6 +13058,25 @@ landscape:
               - repo_url: https://github.com/llm-d/llm-d-router
               - repo_url: https://github.com/llm-d/llm-d-kv-cache
               - repo_url: https://github.com/llm-d/llm-d-benchmark
+          - item:
+            name: lmath
+            homepage_url: https://imath.readthedocs.io/
+            logo: lmath.svg
+            description: Imath is a basic, light-weight, and efficient C++ representation of 2D and 3D vectors, 2x2, 3x3, and 4x4 matrices, and other simple but useful mathematical objects, functions, and data types common in computer graphics applications, including the half 16-bit floating-point type.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/AcademySoftwareFoundation/Imath
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-11-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/lmath
+              lfx_slug: lmath
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lmath
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDjw1AAkWAPEOIdF2
           - item:
             name: Loaders.gl
             homepage_url: https://loaders.gl/
@@ -20598,7 +20617,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkM0JQAV
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rez/rez_Charter.pdf?v=1763485197122
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rez/rez_Charter.pdf?v=1794515144444
           - item:
             name: RISC-V International
             homepage_url: https://riscv.org/
@@ -24862,6 +24881,31 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZ3CuN7sFILTEEHvc
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vc-api/vc-api_Charter.pdf?v=1778006133435
+          - item:
+            name: VC Profile Validator
+            homepage_url: https://github.com/vc-profile-validator
+            logo: vc_profile_validator.svg
+            description: The project originated from practical implementation and contribution experience across the wallet ecosystem, where a recurring need emerged for a smaller validation tool that sits below a full interoperability harness.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/vc-profile-validator/vc-profile-validator
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/vc-profile-validator
+              lfx_slug: vc-profile-validator
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vc-profile-validator
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCCdiOMXq2becI4dW
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vc-profile-validator/vc-profile-validator_Charter.pdf?v=1794496477718
+              annotations:
+                project_org: https://github.com/vc-profile-validator
+            additional_repos: []
           - item:
             name: VCX
             homepage_url: https://github.com/openwallet-foundation/vcx
@@ -43330,13 +43374,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
-          - item:
-            name: SKALE (member)
-            homepage_url: https://skale.space/
-            logo: skale.svg
-            description: SKALE is a modular blockchain network with zero gas fees, optimized for Web3 gaming and dApps, offering fast transactions and advanced features like on-chain file storage and NFT minting.
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: SK Telecom (member)
             homepage_url: https://sktelecom.com/
