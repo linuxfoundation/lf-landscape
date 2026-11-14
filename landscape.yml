@@ -26506,6 +26506,7 @@ landscape:
               - Project Membership / Open 3D Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Open Source Security Foundation (OpenSSF)
+              - Project Membership / Core Toolchain Infrastructure (CTI)
               - Project Membership / Linux Foundation Europe
               - Project Membership / Open Programmable Infrastructure Fund
               - Project Membership / Sylva Fund
@@ -35594,6 +35595,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hexagon-ab
           - item:
+            name: HiddenLayer Inc (member)
+            homepage_url: https://hiddenlayer.com/
+            logo: hiddenlayer_inc.svg
+            description: HiddenLayer offers a noninvasive AI security solution to protect enterprises' machine learning models, ensuring the safeguarding of critical products without adding complexity or requiring access to raw data.
+            second_path:
+              - Project Membership / The Linux Foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hiddenlayersec
+          - item:
             name: Hidora (member)
             homepage_url: https://hidora.io/
             logo: hidora.svg
@@ -43097,9 +43107,9 @@ landscape:
               - Project Membership / Linux Foundation Europe
           - item:
             name: SGDL Innovation SA (member)
-            homepage_url: https://sgdl.ai/
+            homepage_url: https://sgdl.com/
             logo: sgdl_innovation_sa.svg
-            description: SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling and simulation that integrate both modern and traditional technologies..
+            description: SGDL Innovation SA develops a deterministic spatial computing technology designed to make AI systems more accurate, efficient and verifiable when interacting with the physical world. Built around three complementary pillars — BigNum, ExoLanguage and World Models — SGDL provides a compact and precise way to describe, represent and compute complex spatial structures. Working alongside existing AI models, SGDL aims to bridge the gap between AI-generated reasoning and deterministic, machine-verifiable spatial computation. Through its contribution to open standards and the OpenUSD ecosystem, SGDL seeks to support interoperability and advance the foundations of spatial intelligence across robotics, digital twins, industrial applications and scientific research.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
