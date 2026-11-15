@@ -30614,6 +30614,7 @@ landscape:
             description: Chaos is a company that develops visualization technologies for artists and designers to create photorealistic imagery and animation across all creative industries. Their flagship rendering software, V Ray, has set the standard for speed, quality, reli...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Academy Software Foundation (ASWF)
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             extra:
               linkedin_url: https://www.linkedin.com/company/chaos-group
@@ -46779,10 +46780,7 @@ landscape:
             name: warblecloud (member)
             homepage_url: https://warblecloud.ai/
             logo: warblecloud.svg
-            description: |-
-              Self‑healing AI infrastructure for GPU‑driven enterprises. Autonomous agents boost reliability, cut costs, and accelerate cloud AI adoption.
-
-              Warble Cloud is an architectural and methodical AI‑native infrastructure startup delivering self‑healing AI operations for enterprises running GPU‑accelerated workloads. As organizations scale AI across cloud and hybrid environments, traditional DevOps and SRE practices fail to manage the complexity, reliability demands, and cost volatility of modern AI systems. Warble Cloud introduces an AI‑native operations layer powered by autonomous agents that continuously diagnose issues, reason about root causes, execute safe remediations, and learn from every event.
+            description: Warble Cloud runs AI agents for cloud and Kubernetes operations on your own cloud, with zero lock-in. Agents find and diagnose incidents and propose fixes as reviewable GitHub pull requests, with FinOps cost control built in.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
