@@ -26927,6 +26927,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/the-aca-group
           - item:
+            name: AccelerComm (member)
+            homepage_url: https://accelercomm.com/
+            logo: accelercomm.svg
+            description: AccelerComm is a semiconductor IP company revolutionizing 5G networks with patented algorithms that boost capacity, cut power usage, and decrease latency.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Accenture Global Solutions Limited (member)
             homepage_url: https://accenture.com/
             logo: accenture_global_solutions_limited.svg
@@ -34288,7 +34295,7 @@ landscape:
             name: FinOps Academy (member)
             homepage_url: https://finopsacademy.nl/
             logo: finops_academy.svg
-            description: Een succesvolle finops implementatie vereist een een gedragen visie onder alle stakeholders.
+            description: FinOpsAcademy helpt organisaties cloudkosten beheersen met FinOps-training, certificering, coaching en advies. Plan een gratis kennismaking.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
@@ -35003,6 +35010,13 @@ landscape:
             name: goAI Solutions (member)
             homepage_url: https://goai.solutions/
             logo: goai_solutions.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: GoFundMe, Inc. (member)
+            homepage_url: https://gofundme.com/
+            logo: gofundme_inc.svg
+            description: GoFundMe is the easiest way to raise money online with no deadlines or goals, ensuring every donation is kept. It has raised $4 billion from 40M donors, backed by The GoFundMe Guarantee.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -36193,7 +36207,7 @@ landscape:
             name: Infino AI (member)
             homepage_url: https://infino.ai/
             logo: infino_ai.svg
-            description: Scalable search + analytics infrastructure on object storage, for 10x cheaper.
+            description: Get 10× cost reduction on Elasticsearch or OpenSearch by replacing Lucene with Parquet on object storage.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -50745,6 +50759,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
+              - Project Membership / FinOps Foundation
           - item:
             name: Hong Kong Monetary Authority (member)
             homepage_url: https://hkma.gov.hk/
