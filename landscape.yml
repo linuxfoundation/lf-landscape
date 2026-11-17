@@ -2828,6 +2828,31 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkVBPQA3
           - item:
+            name: Chaguar
+            homepage_url: https://github.com/Chaguar
+            logo: chaguar.svg
+            description: create a high-throughput, microservice-based distributed ledger for digital assets
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/Chaguar/chaguar
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-11-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/chaguar
+              lfx_slug: chaguar
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/chaguar
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5rMjSh3iHZ6HxAao
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/chaguar/chaguar_Charter.pdf?v=1794844694495
+              annotations:
+                project_org: https://github.com/Chaguar
+            additional_repos: []
+          - item:
             name: Chantico
             homepage_url: https://chantico.io/
             logo: chantico.svg
@@ -24671,6 +24696,24 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjDUQA1
           - item:
+            name: Uptane Standard
+            homepage_url: https://uptane.org/
+            logo: uptane_standard.svg
+            description: Uptane is a secure software update framework for ground vehicles. The Working Group seeks to define procedures to enable programmers for OEMs and suppliers to securely design and implement this framework in a manner that better protects connected units on ground vehicles.  The resulting Specification describes the components necessary for a compliant implementation. An implementor who follows the protocol, operations, usage, and formats (POUF) as well as the Uptane standard will be able to interoperate with other implementations using that POUF.
+            second_path:
+              - Project Group / Software Supply Chain Security Project
+              - Technology Sector / Safety-Critical Systems
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2019-07-23'
+              lfx_slug: uptane-standard
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/uptane-standard
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8agFxKmCVgcDR11j
+          - item:
             name: Urban Computing Foundation (UCF)
             homepage_url: https://uc.foundation/
             logo: urban_computing_foundation_ucf.svg
@@ -25735,6 +25778,7 @@ landscape:
             description: The x402 protocol project seeks to develop an open, HTTP-native payment protocol designed to enable frictionless payments.
             second_path:
               - Project Group / x402 Foundation
+              - PMO Managed / All
               - Technology Sector / Blockchain
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/x402-foundation/x402
@@ -35561,7 +35605,6 @@ landscape:
             description: HERE is focused on the concept of location and the potential it has to improve the way business is done. In 1985 they started with a goal to digitize mapping and in-car navigation systems. Today they are creating living 3D maps that grow with levels of information and insights including tracking, traffic, and location services. HERE is used by the automotive, logistics, telecommunications, media, retail, and insurance industries. HERE is headquartered in Amsterdam, The Netherlands with offices around the world.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/here-inc
             twitter: https://twitter.com/here
             extra:
@@ -43165,6 +43208,7 @@ landscape:
             name: Shanghai Yunzhou Technology Co.,Ltd. (ZStack) (member)
             homepage_url: https://zstack.io/
             logo: shanghai_yunzhou_technology_co_ltd.svg
+            description: 云轴科技 ZStack develops cloud infrastructure software for enterprises, including private cloud, virtualization, hyperconverged systems, and AI platforms for deploying and managing private large language models and data-center resources.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -51417,7 +51461,12 @@ landscape:
             name: Johns Hopkins University (member)
             homepage_url: https://jhu.edu/
             logo: johns_hopkins_university.svg
-            description: Johns Hopkins University is a private research university located in Baltimore, Maryland. It was the first university in the Western Hemisphere based on the European research institution, with a mission both to teach and to advance human knowledge thro...
+            description: |-
+              Johns Hopkins University is a private research university located in Baltimore, Maryland. It was the first university in the Western Hemisphere based on the European research institution, with a mission both to teach and to advance human knowledge thro...
+
+              --- Merged Data:
+
+              Johns Hopkins University, founded in 1876, is America's first research university and a world leader in education, research, and patient care. With nine academic divisions, it offers over 260 programs in arts, music, humanities, sciences, engineering, ...
             second_path:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/johns-hopkins-university-3
