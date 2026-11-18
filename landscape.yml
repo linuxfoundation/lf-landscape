@@ -7748,6 +7748,25 @@ landscape:
               - repo_url: https://github.com/finos/git-proxy
               - repo_url: https://github.com/finos/fluxnova-bpm-platform
           - item:
+            name: FiveFifths Voter
+            homepage_url: https://www.fivefifthsvoter.com/
+            logo: fivefifths_voter.svg
+            description: At Five Fifths Voter, our mission is to empower historically disenfranchised individuals by providing comprehensive resources and personalized tools to overcome obstacles in the voting process. We are dedicated to assisting first-time voters, veterans, minorities, individuals with disabilities, the elderly, and those with felony convictions. By offering information on voter registration, mail-in ballot instructions, early voting locations, and voting centers, we strive to ensure that every voice is heard in our democratic process. Together, we can transform the narrative and advocate for equal participation of marginalized communities in shaping our nation's future.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2021-02-18'
+              dev_stats_url: https://insights.linuxfoundation.org/project/fivefifths-voter
+              lfx_slug: fivefifths-voter
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fivefifths-voter
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRDWoNpe4Jw4T07fZ
+          - item:
             name: FlagAI
             homepage_url: https://github.com/BAAI-Open
             logo: flagai.svg
@@ -9127,6 +9146,27 @@ landscape:
               - repo_url: https://github.com/higress-group/openapi-to-mcpserver
               - repo_url: https://github.com/higress-group/higress-console
               - repo_url: https://github.com/higress-group/wasm-go
+          - item:
+            name: Hive Commons
+            homepage_url: https://hivecommons.dev/
+            logo: hive_commons.svg
+            description: develop a Kubernetes-native orchestration platform that governs fleets of AI coding agents maintaining software repositories, with deterministic guardrails, graduated autonomy, and an auditable action ledger
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/hivecommons/hive
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/hive-commons
+              lfx_slug: hive-commons
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hive-commons
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lftPNA6DS6Qmt66T0T
           - item:
             name: Holmes
             homepage_url: https://wiki.onap.org/x/gZlk
@@ -14342,28 +14382,6 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/multi-format-vc-for-ios/multi-format-vc-for-ios_Charter.pdf?v=1778005611931
           - item:
-            name: Multipaz
-            homepage_url: https://github.com/openwallet-foundation/multipaz
-            logo: multipaz.svg
-            description: The mission of the Project is to develop libraries and reference applications for working with real-world identity.
-            second_path:
-              - Project Group / OpenWallet Foundation
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/openwallet-foundation/multipaz
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2025-03-07'
-              dev_stats_url: https://insights.linuxfoundation.org/project/mdoc
-              lfx_slug: mdoc
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mdoc
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtdL1QAJ
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mdoc/mdoc_Charter.pdf?v=1778005715909
-          - item:
             name: Multi-site State Coordination Service (MUSIC)
             homepage_url: https://wiki.onap.org/x/IQElAQ
             logo: multi_site_state_coordination_service_music.svg
@@ -15927,7 +15945,7 @@ landscape:
 
               *** Note - please create under LF Europe
             second_path:
-              - Project Group / Linux Foundation Europe
+              - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
             license: Apache-2.0
@@ -19100,7 +19118,7 @@ landscape:
             description: The mission of the project is to develop a privacy and access-control gateway for EVM permissioned networks.
             second_path:
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LFDT-Permissioned-Privacy-Control/.github
+            repo_url: https://github.com/LFDT-Permissioned-Privacy-Control/permissioned-privacy-control
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -33980,7 +33998,7 @@ landscape:
             name: Escala24x7 (member)
             homepage_url: https://escala24x7.com/
             logo: escala24x7.svg
-            description: AWS Partners - Escala 24x7 cuenta con amplia experiencia en el diseño e implementación de IaaS a la medida de su organización
+            description: Escala 24x7 is an AWS Premier Tier Services Partner and Managed Service Provider (MSP) specializing in Cloud Financial Management (CFM), FinOps consulting, cloud architecture, DevOps, and security for banking, insurance, and financial institutions. Aligned with the FinOps Foundation Framework and AWS CFM best practices, our certified FinOps engineers deliver end-to-end cost visibility, unit economics, and automated cloud governance leveraging AWS Cost Explorer, CUR 2.0, and CloudHealth by Broadcom, including specialized FinOps for AI and GenAI tokenomics optimization.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
@@ -54724,7 +54742,7 @@ landscape:
               - Project Membership / The Linux Foundation
           - item:
             name: The Glia Foundation d/b/a GliaNet (member)
-            homepage_url: https://glianetalliance.org/
+            homepage_url: https://glianet.org/
             logo: the_glia_foundation_d_b_a_glianet.svg
             second_path:
               - Project Membership / The Linux Foundation
