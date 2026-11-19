@@ -1421,6 +1421,7 @@ landscape:
             description: Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
+              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
@@ -28998,7 +28999,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/autovia-gmbh
           - item:
             name: AVAP (member)
-            homepage_url: https://avapsphere.com/
+            homepage_url: https://avap.ai/
             logo: avap.svg
             description: |-
               AVAP is a technology stack designed to standardize and simplify the full API lifecycle, from design and development to deployment and evolution. At its core is AVAP (Advanced Virtual API Programming), a purpose-built language for creating virtual APIs that abstract infrastructure complexity and decouple APIs from runtime environments.
@@ -34365,7 +34366,7 @@ landscape:
             name: FinOpsly Inc. (member)
             homepage_url: https://finopsly.com/
             logo: finopsly_inc.svg
-            description: FinOpsly helps enterprises understand and control what they spend on AI. Govern costs across AI tools, models, cloud, compute and data.
+            description: FinOpsly helps businesses govern AI spending, optimize cloud costs, and gain visibility into technology expenses with AI-powered cost management.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
@@ -48255,7 +48256,7 @@ landscape:
             name: Adams Career Academy Assoc. (member)
             homepage_url: https://adamscareeracademy.org/
             logo: adams_career_academy_assoc.svg
-            description: STEM, AI, and career training for K-12 students, adults, veterans, and older learners. Credentials, paid apprenticeships, and internships.
+            description: Adams Career Academy is a nonprofit 501(c)(3) CTE provider and US Department of Labor Registered Apprenticeship Program helping individuals develop skills for industry credentials and livable wages.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
