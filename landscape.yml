@@ -1831,6 +1831,29 @@ landscape:
                 - name: Charter
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
+            name: BASIL
+            homepage_url: https://github.com/elisa-tech/BASIL
+            logo: basil.svg
+            description: The mission of the Project is to develop a tool to define and trace the work that shows software meets its quality and safety objectives, and to keep that record complete and current as both the software and the surrounding process evolve.
+            second_path:
+              - Project Group / ELISA Fund
+              - Technology Sector / System Engineering
+              - Technology Sector / Safety-Critical Systems
+            repo_url: https://github.com/elisa-tech/BASIL
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-11-18'
+              dev_stats_url: https://insights.linuxfoundation.org/project/basil
+              lfx_slug: basil
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/basil
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfljGKp9IXMzRyVnH6
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/basil/basil_Charter.pdf?v=1795213518753
+          - item:
             name: Battery Data Alliance
             homepage_url: https://lfenergy.org/projects/battery-data-alliance/
             logo: battery_data_alliance.svg
@@ -28271,13 +28294,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/antmicro-ltd
           - item:
-            name: Antriksh Cloud (member)
-            homepage_url: https://antriksh.cloud/
-            logo: antriksh_cloud_member.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
-          - item:
             name: Anvilogic (member)
             homepage_url: https://anvilogic.com/
             logo: anvilogic_member.svg
@@ -30491,6 +30507,7 @@ landscape:
             name: Catomz, Inc. (member)
             homepage_url: https://catomz.com/
             logo: catomz_inc_member.svg
+            description: 'Enabling Zero Trust And Beyond for the AI Enterprise. #ZeroAndBeyond'
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -36548,6 +36565,7 @@ landscape:
             description: Intellias is a global technology partner that empowers leading brands worldwide with digital innovation and expertise in IT services, consulting, and product development.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Overture Maps Foundation Fund
               - Project Membership / Unified Acceleration Foundation Fund
             extra:
               linkedin_url: https://www.linkedin.com/company/intellias
