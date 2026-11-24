@@ -275,7 +275,7 @@ landscape:
                   url: https://www.linuxfoundation.org/wp-content/uploads/2018/01/LF-Networking-Fund-Charter-January-2018.pdf
           - item:
             name: Adaptive Cloud Agent - Python (ACA-Py)
-            homepage_url: https://github.com/openwallet-foundation/acapy
+            homepage_url: https://www.aca-py.org/
             logo: adaptive_cloud_agent_python_aca_py.svg
             description: Adaptive Cloud Agent - Python (ACA-Py) (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. Adaptive Cloud Agent - Python (ACA-Py) enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
             second_path:
@@ -615,6 +615,27 @@ landscape:
                 project_org: https://github.com/agentsmd
             additional_repos: []
           - item:
+            name: Agent Substrate
+            homepage_url: https://ate.dev/
+            logo: agent_substrate.svg
+            description: develop a Kubernetes-layer control plane that schedules and multiplexes large numbers of stateful agent workloads onto a smaller pool of worker pods, with sub-second suspend/resume across microVM and gVisor sandbox types
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/agent-substrate/substrate
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/agent-substrate
+              lfx_slug: agent-substrate
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agent-substrate
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFZZbUg3fSDiisUI9
+          - item:
             name: AGNTCY
             homepage_url: https://agntcy.org/
             logo: agntcy.svg
@@ -870,6 +891,27 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs5sQAD
                 - name: Charter
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
+          - item:
+            name: AI Runway
+            homepage_url: https://ai-runway.github.io/airunway/
+            logo: ai_runway.svg
+            description: develop a unified Kubernetes operator and CRD that simplifies deployment of various open source AI inference engines and models across cloud native environments
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/ai-runway/airunway
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-06'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ai-runway
+              lfx_slug: ai-runway
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ai-runway
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfhseCefdAyFvl4chw
           - item:
             name: AI SIG
             homepage_url: https://lfenergy.org/groups/artificial-intelligence-sig/
@@ -1832,19 +1874,17 @@ landscape:
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
             name: BASIL
-            homepage_url: https://github.com/elisa-tech/BASIL
+            homepage_url: https://github.com/elisa-BASIL
             logo: basil.svg
             description: The mission of the Project is to develop a tool to define and trace the work that shows software meets its quality and safety objectives, and to keep that record complete and current as both the software and the surrounding process evolve.
             second_path:
               - Project Group / ELISA Fund
               - Technology Sector / System Engineering
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/elisa-tech/BASIL
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-11-18'
-              dev_stats_url: https://insights.linuxfoundation.org/project/basil
               lfx_slug: basil
               other_links:
                 - name: Calendar
@@ -17422,6 +17462,27 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1EL3QAN
                 - name: Charter
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-review-initiative_charter.pdf
+          - item:
+            name: OpenRL
+            homepage_url: https://github.com/openrl-dev/openrl
+            logo: openrl.svg
+            description: develop a self-hosted, Kubernetes-native post-training service that exposes a Tinker-compatible API for fine-tuning language models via supervised fine-tuning and reinforcement learning
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/openrl-dev/openrl
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-01'
+              dev_stats_url: https://insights.linuxfoundation.org/project/openrl
+              lfx_slug: openrl
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openrl
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCM0wYyiHOwZzETJ9
           - item:
             name: Open Robust Compartmentalization Alliance (ORCA)
             homepage_url: https://orca-lf.org/
@@ -33877,7 +33938,6 @@ landscape:
             logo: envisor_member.svg
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
           - item:
             name: ENVZERO (member)
             homepage_url: https://envzero.com/
@@ -33971,9 +34031,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/equifax
           - item:
-            name: Equinix Services, Inc. (member)
+            name: Equinix, Inc. (member)
             homepage_url: https://equinix.com/
-            logo: equinix_services_inc_member.svg
+            logo: equinix_inc_member.svg
             description: Established in 1998, Equinix is headquartered in Redwood City, California. They are a data center and colocation provider with services including secure key management, network virtualization, advisory services, and more.
             second_path:
               - Project Membership / The Linux Foundation
@@ -46873,11 +46933,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/wand-cloud
           - item:
             name: warblecloud (member)
-            homepage_url: https://warblecloud.ai/
+            homepage_url: https://warblecloud.com/
             logo: warblecloud_member.svg
             description: Warble Cloud runs AI agents for cloud and Kubernetes operations on your own cloud, with zero lock-in. Agents find and diagnose incidents and propose fixes as reviewable GitHub pull requests, with FinOps cost control built in.
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/warblecloud-llc
           - item:
             name: Wargaming.net Limited (member)
             homepage_url: https://wargaming.net/
@@ -48189,7 +48250,7 @@ landscape:
             name: 3 Percent Club (member)
             homepage_url: https://3percentclub.org/
             logo: 3_percent_club_member.svg
-            description: A New York nonprofit taking people from AI-curious to AI-builder through hands-on technical training and peer mentorship.
+            description: 'A nonprofit taking people from AI-curious to AI-builder through hands-on technical training and peer mentorship. Programs run in New York City. Mailing address: 2511 Butler Ave, Los Angeles, CA 90064.'
             second_path:
               - Project Membership / The Linux Foundation
           - item:
