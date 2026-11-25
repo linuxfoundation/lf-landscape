@@ -1881,10 +1881,12 @@ landscape:
               - Project Group / ELISA Fund
               - Technology Sector / System Engineering
               - Technology Sector / Safety-Critical Systems
+            repo_url: https://github.com/elisa-BASIL/governance
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-11-18'
+              dev_stats_url: https://insights.linuxfoundation.org/project/basil
               lfx_slug: basil
               other_links:
                 - name: Calendar
@@ -1893,6 +1895,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfljGKp9IXMzRyVnH6
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/basil/basil_Charter.pdf?v=1795213518753
+              annotations:
+                project_org: https://github.com/elisa-BASIL
+            additional_repos: []
           - item:
             name: Battery Data Alliance
             homepage_url: https://lfenergy.org/projects/battery-data-alliance/
@@ -3532,7 +3537,7 @@ landscape:
               - repo_url: https://github.com/cloudfoundry/cf-deployment
               - repo_url: https://github.com/cloudfoundry/cloud_controller_ng
               - repo_url: https://github.com/cloudfoundry/uaa
-              - repo_url: https://github.com/cloudfoundry/kind-deployment
+              - repo_url: https://github.com/cloudfoundry/k8s-deployment
           - item:
             name: Cloud Hypervisor
             homepage_url: https://cloudhypervisor.org/
@@ -26754,7 +26759,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
           - item:
             name: LY Corporation (member)
-            homepage_url: https://www.lycorp.co.jp/en/
+            homepage_url: https://lycorp.co.jp/
             logo: ly_corporation_member.svg
             description: |-
               LY Corporation is one of Japan's largest tech companies formed in October 2023 through the reorganization of Group companies including LINE Corporation and Yahoo Japan Corporation. LY Corporation spans diverse businesses, including search, portal website, e-commerce, communications, and advertising under its mission, "Create an amazing life platform that brings WOW! to our users."
@@ -39402,14 +39407,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: mydecisive.ai (member)
-            homepage_url: https://mydecisive.ai/
-            logo: mydecisive_ai_member.svg
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/mydecisive
-          - item:
             name: MyFitnessPal LLC (member)
             homepage_url: https://myfitnesspal.com/
             logo: myfitnesspal_llc_member.svg
@@ -39842,6 +39839,7 @@ landscape:
             name: NGARi (member)
             homepage_url: https://ngari.ai/
             logo: ngari_member.svg
+            description: Sovereign AI for regulated industries. Our open source NS-BOS Kernel is a minimal, auditable runtime for AI agents on edge hardware the user owns. It provides encryption at rest, a keyed audit log, operator identity with PIV/CAC cards, a sandbox for agent code, local inference clients and inter-agent messaging, with no cloud dependency.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -40300,7 +40298,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Data Plane Development Kit (DPDK)
-              - Project Membership / LF AI & Data
               - Project Membership / Academy Software Foundation (ASWF)
               - Project Membership / ELISA Fund
               - Project Membership / CHIPS Alliance Fund
