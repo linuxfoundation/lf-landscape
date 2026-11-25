@@ -1,16 +1,331 @@
 landscape:
   - category:
     name: Industry
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Automotive
+        items: []
+      - subcategory:
+        name: Consumer Electronics
+        items: []
+      - subcategory:
+        name: Cross-Industry
+        items: []
+      - subcategory:
+        name: Energy & Climate
+        items: []
+      - subcategory:
+        name: Financials
+        items: []
+      - subcategory:
+        name: Health Care
+        items: []
+      - subcategory:
+        name: Materials
+        items: []
+      - subcategory:
+        name: Motion Pictures
+        items: []
+      - subcategory:
+        name: Professional Services
+        items: []
+      - subcategory:
+        name: Public Health & Disaster Response
+        items: []
+      - subcategory:
+        name: Telecommunications
+        items: []
   - category:
     name: Technology Sector
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: AI, ML, Data & Analytics
+        items: []
+      - subcategory:
+        name: Blockchain
+        items: []
+      - subcategory:
+        name: Cloud, Containers & Virtualization
+        items: []
+      - subcategory:
+        name: Cross-Technology
+        items: []
+      - subcategory:
+        name: DevOps, CI:CD & Site Reliability
+        items: []
+      - subcategory:
+        name: IoT & Embedded
+        items: []
+      - subcategory:
+        name: Linux Kernel
+        items: []
+      - subcategory:
+        name: Networking & Edge
+        items: []
+      - subcategory:
+        name: Open Hardware
+        items: []
+      - subcategory:
+        name: Open Source & Compliance Best Practices
+        items: []
+      - subcategory:
+        name: Privacy & Security
+        items: []
+      - subcategory:
+        name: Quantum Computing
+        items: []
+      - subcategory:
+        name: Safety-Critical Systems
+        items: []
+      - subcategory:
+        name: Storage
+        items: []
+      - subcategory:
+        name: System Administration
+        items: []
+      - subcategory:
+        name: System Engineering
+        items: []
+      - subcategory:
+        name: Visual Effects
+        items: []
+      - subcategory:
+        name: Web & Application Development
+        items: []
   - category:
     name: Project Group
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: 3MF Consortium
+        items: []
+      - subcategory:
+        name: Academy Software Foundation (ASWF)
+        items: []
+      - subcategory:
+        name: Aether Fund
+        items: []
+      - subcategory:
+        name: Agentic AI Foundation (AAIF)
+        items: []
+      - subcategory:
+        name: Alliance for OpenUSD Fund (AOUSDF)
+        items: []
+      - subcategory:
+        name: Appia Fund
+        items: []
+      - subcategory:
+        name: Automated Compliance Tooling (ACT)
+        items: []
+      - subcategory:
+        name: Ceph Foundation
+        items: []
+      - subcategory:
+        name: CHIPS Alliance Fund
+        items: []
+      - subcategory:
+        name: Civil Infrastructure Platform (CIP)
+        items: []
+      - subcategory:
+        name: Cloud Foundry Foundation (CFF)
+        items: []
+      - subcategory:
+        name: Cloud Native Computing Foundation (CNCF)
+        items: []
+      - subcategory:
+        name: Coalition for Content Provenance and Authenticity Fund (C2PA)
+        items: []
+      - subcategory:
+        name: Code Aurora Forum (CAF)
+        items: []
+      - subcategory:
+        name: Confidential Computing Consortium (CCC)
+        items: []
+      - subcategory:
+        name: Continuous Delivery Foundation (CDF)
+        items: []
+      - subcategory:
+        name: DAOS Foundation
+        items: []
+      - subcategory:
+        name: Data Plane Development Kit (DPDK)
+        items: []
+      - subcategory:
+        name: Decentralized Identity Foundation (DIF)
+        items: []
+      - subcategory:
+        name: Device Automation Bus Fund
+        items: []
+      - subcategory:
+        name: DizmeID Foundation
+        items: []
+      - subcategory:
+        name: Dronecode Project, Inc.
+        items: []
+      - subcategory:
+        name: ELISA Fund
+        items: []
+      - subcategory:
+        name: FinOps Foundation
+        items: []
+      - subcategory:
+        name: FINOS (The Fintech Open Source Foundation)
+        items: []
+      - subcategory:
+        name: GraphQL Foundation
+        items: []
+      - subcategory:
+        name: GraphQL Specification
+        items: []
+      - subcategory:
+        name: High Performance Software Foundation (HPSF)
+        items: []
+      - subcategory:
+        name: InterUSS Platform Fund
+        items: []
+      - subcategory:
+        name: KernelCI Foundation
+        items: []
+      - subcategory:
+        name: LF AI & Data
+        items: []
+      - subcategory:
+        name: LF Decentralized Trust
+        items: []
+      - subcategory:
+        name: LF Edge
+        items: []
+      - subcategory:
+        name: LF Energy (LFE)
+        items: []
+      - subcategory:
+        name: LF Energy Standards and Specifications (LFESS)
+        items: []
+      - subcategory:
+        name: LF Networking (LFN)
+        items: []
+      - subcategory:
+        name: LF Public Health (LFPH)
+        items: []
+      - subcategory:
+        name: Linux Foundation Europe
+        items: []
+      - subcategory:
+        name: Magma Fund
+        items: []
+      - subcategory:
+        name: NeoNephos Foundation
+        items: []
+      - subcategory:
+        name: OCUDU Ecosystem Foundation
+        items: []
+      - subcategory:
+        name: Open 3D Foundation
+        items: []
+      - subcategory:
+        name: Open Container Initiative (OCI)
+        items: []
+      - subcategory:
+        name: Open Financial Trust Alliance (OFTA)
+        items: []
+      - subcategory:
+        name: Open Mainframe Project (OMP)
+        items: []
+      - subcategory:
+        name: Open Programmable Infrastructure Fund
+        items: []
+      - subcategory:
+        name: Open Source Security Foundation (OpenSSF)
+        items: []
+      - subcategory:
+        name: OpenAPI Initiative
+        items: []
+      - subcategory:
+        name: OpenInfra Foundation (OIF)
+        items: []
+      - subcategory:
+        name: OpenJS Foundation
+        items: []
+      - subcategory:
+        name: OpenWallet Foundation
+        items: []
+      - subcategory:
+        name: OS-Climate
+        items: []
+      - subcategory:
+        name: OSERA
+        items: []
+      - subcategory:
+        name: Overture Maps Foundation Fund
+        items: []
+      - subcategory:
+        name: Post-Quantum Cryptography Alliance
+        items: []
+      - subcategory:
+        name: PyTorch Foundation
+        items: []
+      - subcategory:
+        name: R Consortium
+        items: []
+      - subcategory:
+        name: seL4 Foundation
+        items: []
+      - subcategory:
+        name: SODA Foundation
+        items: []
+      - subcategory:
+        name: Software Supply Chain Security Project
+        items: []
+      - subcategory:
+        name: Software-Enabled Flash Fund
+        items: []
+      - subcategory:
+        name: SONiC Fund
+        items: []
+      - subcategory:
+        name: SPDX
+        items: []
+      - subcategory:
+        name: SPIF Patent Identification Format
+        items: []
+      - subcategory:
+        name: Sylva Fund
+        items: []
+      - subcategory:
+        name: TARS Foundation
+        items: []
+      - subcategory:
+        name: The Linux Foundation
+        items: []
+      - subcategory:
+        name: The Presto Foundation
+        items: []
+      - subcategory:
+        name: TLA+ Foundation
+        items: []
+      - subcategory:
+        name: Trust Over IP Project (ToIP)
+        items: []
+      - subcategory:
+        name: Unified Acceleration Foundation Fund
+        items: []
+      - subcategory:
+        name: UniMatrix Governance Project
+        items: []
+      - subcategory:
+        name: US GOV OPS
+        items: []
+      - subcategory:
+        name: x402 Foundation
+        items: []
+      - subcategory:
+        name: Xen Project
+        items: []
   - category:
     name: PMO Managed
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: All
+        items: []
   - category:
     name: Projects
     subcategories:
@@ -56508,3 +56823,216 @@ landscape:
             description: The 臺灣區塊鏈愛好者協會官網 (chain.tw) is a pioneering organization in Taiwan dedicated to promoting and advancing the blockchain industry. Since 2016, they have been organizing annual conferences to facilitate the exchange of trends and perspectives in blockchai...
             second_path:
               - Project Membership / The Linux Foundation
+  - category:
+    name: Project Membership
+    subcategories:
+      - subcategory:
+        name: Academy Software Foundation (ASWF)
+        items: []
+      - subcategory:
+        name: Aether Fund
+        items: []
+      - subcategory:
+        name: AgStack
+        items: []
+      - subcategory:
+        name: Alliance for OpenUSD Fund (AOUSDF)
+        items: []
+      - subcategory:
+        name: App Defense Alliance Fund
+        items: []
+      - subcategory:
+        name: Automotive Grade Linux (AGL)
+        items: []
+      - subcategory:
+        name: Broadband Fund
+        items: []
+      - subcategory:
+        name: Camara Fund
+        items: []
+      - subcategory:
+        name: Ceph Foundation
+        items: []
+      - subcategory:
+        name: CHIPS Alliance Fund
+        items: []
+      - subcategory:
+        name: Civil Infrastructure Platform (CIP)
+        items: []
+      - subcategory:
+        name: Cloud Foundry Foundation (CFF)
+        items: []
+      - subcategory:
+        name: Cloud Native Computing Foundation (CNCF)
+        items: []
+      - subcategory:
+        name: Coalition for Content Provenance and Authenticity Fund (C2PA)
+        items: []
+      - subcategory:
+        name: Confidential Computing Consortium (CCC)
+        items: []
+      - subcategory:
+        name: Continuous Delivery Foundation (CDF)
+        items: []
+      - subcategory:
+        name: Core Toolchain Infrastructure (CTI)
+        items: []
+      - subcategory:
+        name: DAOS Foundation
+        items: []
+      - subcategory:
+        name: Data Plane Development Kit (DPDK)
+        items: []
+      - subcategory:
+        name: Dronecode Project, Inc.
+        items: []
+      - subcategory:
+        name: eBPF Foundation
+        items: []
+      - subcategory:
+        name: ELISA Fund
+        items: []
+      - subcategory:
+        name: FinOps Foundation
+        items: []
+      - subcategory:
+        name: FINOS (The Fintech Open Source Foundation)
+        items: []
+      - subcategory:
+        name: GraphQL Foundation
+        items: []
+      - subcategory:
+        name: Green Software Foundation Fund
+        items: []
+      - subcategory:
+        name: Inclusive Naming Initiative Fund (INI)
+        items: []
+      - subcategory:
+        name: InterUSS Platform Fund
+        items: []
+      - subcategory:
+        name: KernelCI Foundation
+        items: []
+      - subcategory:
+        name: LF AI & Data
+        items: []
+      - subcategory:
+        name: LF Decentralized Trust
+        items: []
+      - subcategory:
+        name: LF Edge
+        items: []
+      - subcategory:
+        name: LF Energy (LFE)
+        items: []
+      - subcategory:
+        name: LF Networking (LFN)
+        items: []
+      - subcategory:
+        name: Linux Foundation Europe
+        items: []
+      - subcategory:
+        name: Open 3D Foundation
+        items: []
+      - subcategory:
+        name: Open Container Initiative (OCI)
+        items: []
+      - subcategory:
+        name: Open Insurance Data Standard Foundation (OPENIDS)
+        items: []
+      - subcategory:
+        name: Open Mainframe Project (OMP)
+        items: []
+      - subcategory:
+        name: Open Programmable Infrastructure Fund
+        items: []
+      - subcategory:
+        name: Open Source Security Foundation (OpenSSF)
+        items: []
+      - subcategory:
+        name: OpenAPI Initiative
+        items: []
+      - subcategory:
+        name: OpenChain Project
+        items: []
+      - subcategory:
+        name: OpenHPC Project
+        items: []
+      - subcategory:
+        name: OpenJS Foundation
+        items: []
+      - subcategory:
+        name: OpenPOWER Foundation
+        items: []
+      - subcategory:
+        name: OpenWallet Foundation
+        items: []
+      - subcategory:
+        name: OS-Climate
+        items: []
+      - subcategory:
+        name: Overture Maps Foundation Fund
+        items: []
+      - subcategory:
+        name: P4 Fund
+        items: []
+      - subcategory:
+        name: Post-Quantum Cryptography Alliance
+        items: []
+      - subcategory:
+        name: PyTorch Foundation
+        items: []
+      - subcategory:
+        name: R Consortium
+        items: []
+      - subcategory:
+        name: Real-Time Linux (RTL)
+        items: []
+      - subcategory:
+        name: RISC-V International
+        items: []
+      - subcategory:
+        name: SODA Foundation
+        items: []
+      - subcategory:
+        name: SONiC Fund
+        items: []
+      - subcategory:
+        name: SPDX
+        items: []
+      - subcategory:
+        name: Sylva Fund
+        items: []
+      - subcategory:
+        name: TARS Foundation
+        items: []
+      - subcategory:
+        name: The Linux Foundation
+        items: []
+      - subcategory:
+        name: The Presto Foundation
+        items: []
+      - subcategory:
+        name: TLA+ Foundation
+        items: []
+      - subcategory:
+        name: TODO Group
+        items: []
+      - subcategory:
+        name: Trust Over IP Project (ToIP)
+        items: []
+      - subcategory:
+        name: Ultra Ethernet Consortium Fund
+        items: []
+      - subcategory:
+        name: Unified Acceleration Foundation Fund
+        items: []
+      - subcategory:
+        name: Xen Project
+        items: []
+      - subcategory:
+        name: Yocto Project Fund
+        items: []
+      - subcategory:
+        name: Zephyr Project
+        items: []
