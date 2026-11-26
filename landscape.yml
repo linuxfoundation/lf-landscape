@@ -27981,7 +27981,7 @@ landscape:
             name: Alterion AI (member)
             homepage_url: https://alterion.ai/
             logo: alterion_ai_member.svg
-            description: See every agent. Monitor autonomous behavior. Govern runtime intelligently across every cloud, vendor, and endpoint. No code changes.
+            description: See every agent. Monitor autonomous behavior. Govern runtime across every cloud, vendor and endpoint, with containment up to an AI kill switch. No code changes.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
