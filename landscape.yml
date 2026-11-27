@@ -30892,6 +30892,18 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/chislitel-lab
           - item:
+            name: Choreo Labs (member)
+            homepage_url: https://choreolabs.com/
+            logo: choreo_labs_member.svg
+            description: Exhibited at OSCON 2011 in Portland
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/wso2
+            twitter: https://twitter.com/wso2
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wso2
+          - item:
             name: Chronosphere, Inc. (member)
             homepage_url: https://chronosphere.io/
             logo: chronosphere_inc_member.svg
@@ -47764,18 +47776,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: WSO2 LLC. (member)
-            homepage_url: https://wso2.com/
-            logo: wso2_llc_member.svg
-            description: Exhibited at OSCON 2011 in Portland
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/wso2
-            twitter: https://twitter.com/wso2
-            extra:
-              linkedin_url: https://www.linkedin.com/company/wso2
-          - item:
             name: WunderGraph, Inc. (member)
             homepage_url: https://wundergraph.com/
             logo: wundergraph_inc_member.svg
@@ -48574,7 +48574,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aoyama-gakuin-university
             twitter: https://twitter.com/AoyamaGakuinU
             extra:
-              linkedin_url: https://www.linkedin.com/company/%e9%9d%92%e5%b1%b1%e5%ad%a6%e9%99%a2%e5%a4%a7%e5%ad%a6
+              linkedin_url: https://www.linkedin.com/company/%E9%9D%92%E5%B1%B1%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6
           - item:
             name: Apereo Foundation (member)
             homepage_url: https://apereo.org/
@@ -53684,6 +53684,7 @@ landscape:
             name: RhetAI Coalition (member)
             homepage_url: https://rhetai.com/
             logo: rhetai_coalition_member.svg
+            description: RhetAI is the global coalition building the principles that ensure persuasive technologies serve humanity.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -55434,7 +55435,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
             twitter: https://twitter.com/ULT_Tunisie
             extra:
-              linkedin_url: https://www.linkedin.com/company/universit%c3%a9libredetunis
+              linkedin_url: https://www.linkedin.com/company/universit%C3%A9libredetunis
           - item:
             name: Universiti Teknologi MARA (member)
             homepage_url: https://uitm.edu.my/
@@ -56426,7 +56427,7 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/xidian-university
             extra:
-              linkedin_url: https://www.linkedin.com/company/%e8%a5%bf%e5%ae%89%e7%94%b5%e5%ad%90%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6
+              linkedin_url: https://www.linkedin.com/company/%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6
           - item:
             name: XPRIZE (member)
             homepage_url: https://xprize.org/
