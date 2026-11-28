@@ -1881,7 +1881,7 @@ landscape:
               - Project Group / ELISA Fund
               - Technology Sector / System Engineering
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/elisa-BASIL/governance
+            repo_url: https://github.com/elisa-BASIL/BASIL
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -39530,7 +39530,7 @@ landscape:
             name: NEAR (member)
             homepage_url: https://near.ai/
             logo: near_member.svg
-            description: NEAR AI Cloud is a private AI inference platform built on confidential computing. Our TEE-hosted open-weight models return a hardware-signed proof with every response, at the same per-token price as ordinary inference.
+            description: Confidential AI inference in Intel TDX and NVIDIA GPU TEEs. Open-weight models, an OpenAI-compatible API, and a hardware-signed proof with every response.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
@@ -45336,7 +45336,7 @@ landscape:
             name: Tensormesh, Inc. (member)
             homepage_url: https://tensormesh.ai/
             logo: tensormesh_inc_member.svg
-            description: Cut LLM inference cost and latency. Tensormesh caches repeated context across GPU memory, host memory and storage so your GPUs stop recomputing it.
+            description: KV cache management for LLM inference from the creators of LMCache. Tensormesh reuses context across GPU, CPU memory and storage to cut cost and latency.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
